@@ -1,0 +1,1838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+  <name>ATENDIMENTO VIA FILIAL BH</name>
+
+    <Style id="poly-3770b5ff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>3770b5ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>3770b5ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-3770b5ff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>3770b5ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>3770b5ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-3770b5ff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-3770b5ff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-3770b5ff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>ALFREDO VASCONCELOS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.6312750006407,-21.095260996397826 -43.60084800043484,-21.111854997210287 -43.606796000435054,-21.12952299718853 -43.714840999812225,-21.18899599686773 -43.830474000174945,-21.14583199654936 -43.81144600043251,-21.112954996675683 -43.71579199960104,-21.128278996478457 -43.6312750006407,-21.095260996397826
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ALTO RIO DOCE / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.470484999782855,-20.9395049965583 -43.41930899961062,-20.977887996733614 -43.324490000413164,-20.97872899684569 -43.29056599992094,-20.955050996706063 -43.23912700021083,-20.968969996468104 -43.25574300023925,-21.010824996676206 -43.243381000332874,-21.083525996627372 -43.27165800031639,-21.05833999619381 -43.35283599998138,-21.09271799693795 -43.363949999892554,-21.15176499675715 -43.417235000195035,-21.158142996801814 -43.498037999653945,-21.11498599680624 -43.51236500024453,-21.064644996469383 -43.53584600029262,-20.9955899964811 -43.58091999965819,-20.94937199652037 -43.52274199944367,-20.937555996611934 -43.470484999782855,-20.9395049965583
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ANDRELÂNDIA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.16355900004777,-21.589391996343522 -44.13672400001252,-21.656303996432257 -44.0772629999874,-21.66289499640692 -44.07126300028722,-21.73048699637775 -44.09086999975062,-21.79687699667602 -44.17444300014432,-21.827614996834598 -44.22809899956911,-21.844346996816398 -44.23158000001695,-21.892923996745026 -44.28572400036228,-21.928624996446388 -44.32660699981312,-21.86992099715627 -44.39855999944439,-21.866399996662494 -44.44074900066579,-21.873016996037506 -44.45634500042138,-21.796130996448255 -44.492443999590876,-21.789760996772543 -44.458799000273586,-21.732119997040172 -44.384641999728444,-21.71424899669381 -44.35565800041633,-21.656398996316568 -44.39921199983388,-21.62133199707398 -44.38644900032108,-21.58611399716318 -44.32851000033622,-21.597081996636803 -44.22084799973538,-21.56677099638432 -44.16355900004777,-21.589391996343522
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ANTÔNIO CARLOS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.63106800008808,-21.37569699651914 -43.68732499984884,-21.38490299657599 -43.64890999999648,-21.4974509958667 -43.706097000376246,-21.58528899599031 -43.739704999785886,-21.531706996380706 -43.81462100025891,-21.526155996701846 -43.82342999999446,-21.50918399644422 -43.88015699984561,-21.35306399690586 -43.86114499994176,-21.289774996618746 -43.79118000025676,-21.276344996924024 -43.710158999737985,-21.304674996653716 -43.63106800008808,-21.37569699651914
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ARACITABA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.3242029997686,-21.29649699723859 -43.35269499977437,-21.35801599684072 -43.472120999684364,-21.411864996172596 -43.46978399983169,-21.371478996258645 -43.4238650001696,-21.336743997037786 -43.37168200032403,-21.284666996684507 -43.3242029997686,-21.29649699723859
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ARGIRITA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.7461620000762,-21.651021996567863 -42.806597000051454,-21.658041996540874 -42.86832899958364,-21.703333996966364 -42.89933699960278,-21.69277299647655 -42.91330199968752,-21.663963997140684 -42.865693000331646,-21.584582996707866 -42.83095900025762,-21.543833996241915 -42.74781800000068,-21.62403299662543 -42.7461620000762,-21.651021996567863
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ASTOLFO DUTRA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.86137399991014,-21.241956996618057 -42.813755000093124,-21.260695996522998 -42.8302869998451,-21.387989996840815 -42.89425700006046,-21.37251599641604 -42.938007000422715,-21.367892996364674 -42.926404999591,-21.302833997191158 -42.955168000402864,-21.26464099678452 -42.86137399991014,-21.241956996618057
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BARÃO DE MONTE ALTO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.202640469881715,-21.221242840884372 -42.23555700485184,-21.342928345166968 -42.25479399984317,-21.3500429969867 -42.3637820004389,-21.306356996877867 -42.33137399971025,-21.272102996456056 -42.32746800034789,-21.210318997223908 -42.27775600023915,-21.20124499695902 -42.202640469881715,-21.221242840884372
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BARBACENA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.909556000309124,-21.124509996239283 -43.830474000174945,-21.14583199654936 -43.714840999812225,-21.18899599686773 -43.606796000435054,-21.12952299718853 -43.598775000166086,-21.166611997046004 -43.61009599973056,-21.22543999665845 -43.580846999889104,-21.318766997199134 -43.63106800008808,-21.37569699651914 -43.710158999737985,-21.304674996653716 -43.79118000025676,-21.276344996924024 -43.86114499994176,-21.289774996618746 -43.88015699984561,-21.35306399690586 -43.92061200024358,-21.37438799640887 -44.00543099964085,-21.363236996590103 -44.02293700024234,-21.241572996896252 -44.00188199965453,-21.22094499711386 -43.91619699989161,-21.223934996502862 -43.89627100010654,-21.18787199719486 -43.94122600027964,-21.121636996849873 -43.909556000309124,-21.124509996239283
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BARROSO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.00188199965453,-21.22094499711386 -44.013386999610304,-21.160833996791496 -43.94122600027964,-21.121636996849873 -43.89627100010654,-21.18787199719486 -43.91619699989161,-21.223934996502862 -44.00188199965453,-21.22094499711386
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BELMIRO BRAGA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.37457000040513,-21.89595999645661 -43.345774480108105,-21.916088005556958 -43.37222900036801,-21.952598996746246 -43.3266497582797,-22.007825202570984 -43.46451918241428,-22.072761461372295 -43.56605395262778,-22.087484500908943 -43.59141155360027,-22.055785769397687 -43.58512700031076,-21.99892499629152 -43.49476799994318,-21.932899996637502 -43.49524799959545,-21.891440996704603 -43.44207800009957,-21.876290996831983 -43.37457000040513,-21.89595999645661
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BIAS FORTES / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.706097000376246,-21.58528899599031 -43.665969999815616,-21.605345996420567 -43.68420900004526,-21.62672699675346 -43.67896199999626,-21.711929996771914 -43.7156860001088,-21.670341997185403 -43.77130800026396,-21.66546599715798 -43.7891490001262,-21.71315699669799 -43.87237499980637,-21.710147996432852 -43.87301599968862,-21.678840997014333 -43.827222000394954,-21.60678899641499 -43.81462100025891,-21.526155996701846 -43.739704999785886,-21.531706996380706 -43.706097000376246,-21.58528899599031
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BICAS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.02910899998034,-21.675736996864885 -43.020122000130186,-21.698613996039057 -43.076216999614815,-21.7985269963238 -43.17124400031031,-21.759519996150857 -43.18758700033976,-21.742863996076494 -43.132993000826275,-21.69468999674592 -43.09151299992499,-21.660183996394267 -43.02910899998034,-21.675736996864885
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BOCAINA DE MINAS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.43030900036001,-22.115426996258805 -44.34884500009662,-22.106185996386557 -44.31937499995627,-22.155500996174 -44.35962233700121,-22.25402161660429 -44.432269885746564,-22.25144481972262 -44.496855750692305,-22.303741242064632 -44.563463057773845,-22.331588089118952 -44.62607294221249,-22.335343320737593 -44.66587149327478,-22.37270484485265 -44.66610400039923,-22.320203996717055 -44.61338300002541,-22.28728599675128 -44.60659800009756,-22.22553399629686 -44.559875000231045,-22.159817996503307 -44.540827999612475,-22.128640996784554 -44.49062900042799,-22.136616996776922 -44.43030900036001,-22.115426996258805
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BOM JARDIM DE MINAS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.08691099974283,-21.88519299635965 -43.976926999981,-21.95666199705346 -44.00012300037611,-22.022138996617343 -44.051406000086786,-22.032362996854772 -44.07959599965562,-21.99536499669722 -44.20727500064072,-22.07040299650106 -44.228341999983286,-22.075476996665998 -44.25658200005921,-21.975441997050496 -44.1967890000123,-21.890933996706565 -44.17444300014432,-21.827614996834598 -44.09086999975062,-21.79687699667602 -44.08691099974283,-21.88519299635965
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BRÁS PIRES / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.14689799994272,-20.84747599651996 -43.172799000073724,-20.92537799709686 -43.23912700021083,-20.968969996468104 -43.29056599992094,-20.955050996706063 -43.295163999718795,-20.853349996704935 -43.266389000152174,-20.803516997311533 -43.21709999976514,-20.79447399667754 -43.154182000398976,-20.815723997264627 -43.14689799994272,-20.84747599651996
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CAJURI / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.71263900008972,-20.81560499627352 -42.783779000000834,-20.825228996720796 -42.83001699998454,-20.808888996829694 -42.82576600000084,-20.756301997239348 -42.75357500018606,-20.745176996820874 -42.71263900008972,-20.81560499627352
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CAPELA NOVA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.52274199944367,-20.937555996611934 -43.58091999965819,-20.94937199652037 -43.647579000670305,-20.954114996709677 -43.67553100005557,-20.929321996412966 -43.619019000226615,-20.85716499636743 -43.61880000001992,-20.857090996552188 -43.57725399967228,-20.87661699677693 -43.52274199944367,-20.937555996611934
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CARANDAÍ / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.79702600004981,-20.883854996910543 -43.820780000096875,-20.913363996151475 -43.70952099999414,-20.95094499621456 -43.67553100005557,-20.929321996412966 -43.647579000670305,-20.954114996709677 -43.7085849999977,-21.020027996594706 -43.771981999869354,-21.064457995939733 -43.909556000309124,-21.124509996239283 -43.94122600027964,-21.121636996849873 -43.92960000013983,-21.06299299672935 -43.9637969997317,-21.041913996833443 -43.99492900007323,-20.988766996599566 -43.922468000397885,-20.92747199653536 -43.895601999832365,-20.886003996187412 -43.79702600004981,-20.883854996910543
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CARVALHOS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.37931699967976,-21.94080399600756 -44.43681099982774,-22.067241996420933 -44.43030900036001,-22.115426996258805 -44.49062900042799,-22.136616996776922 -44.540827999612475,-22.128640996784554 -44.527858000446315,-22.082824996476347 -44.58183400023887,-22.029483996289343 -44.55653499999022,-21.969238996082765 -44.51310900018018,-21.927227996774604 -44.441252999626215,-21.95953399639677 -44.37931699967976,-21.94080399600756
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CATAGUASES / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.75288599988892,-21.203270996858976 -42.722940000280744,-21.220564996677183 -42.61258399955187,-21.23264699716117 -42.59048300019026,-21.255218996659323 -42.629104999695926,-21.31849799648529 -42.58506200021111,-21.354068996486944 -42.502396000275155,-21.31184899653391 -42.529273999595375,-21.336945996460543 -42.52346400056314,-21.400317996977947 -42.53222699997605,-21.43569699621935 -42.61127700043318,-21.41142999679687 -42.680546000397555,-21.444885996391577 -42.72448999981361,-21.42918199615218 -42.78252399968278,-21.460703996492214 -42.79918700007994,-21.42442299612435 -42.781283000010376,-21.38443999680834 -42.767078999696025,-21.295914996479837 -42.79499700021137,-21.27136799673559 -42.75288599988892,-21.203270996858976
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CHÁCARA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.16923699948791,-21.617617996673175 -43.132993000826275,-21.69468999674592 -43.18758700033976,-21.742863996076494 -43.246594000112964,-21.769980996525703 -43.26190400016941,-21.684641996530843 -43.294856999950525,-21.66136799703537 -43.226393000236726,-21.631353996090013 -43.16923699948791,-21.617617996673175
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CHIADOR / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.9096254596472,-21.990723504785876 -42.968985459511316,-22.01489504027387 -43.07552843458956,-22.092859631866475 -43.1532422906991,-22.074444774606604 -43.13122315392536,-22.029213151965337 -43.12111699994955,-21.98629199647843 -42.96766000000895,-21.94351299682728 -42.88447400037478,-21.851378996443486 -42.92001800003061,-21.929579996419648 -42.9096254596472,-21.990723504785876
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CIPOTÂNEA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.295163999718795,-20.853349996704935 -43.29056599992094,-20.955050996706063 -43.324490000413164,-20.97872899684569 -43.41930899961062,-20.977887996733614 -43.470484999782855,-20.9395049965583 -43.42400799956948,-20.923851996872088 -43.37291899981193,-20.86719899683618 -43.295163999718795,-20.853349996704935
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>COIMBRA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.71263900008972,-20.81560499627352 -42.70936700028682,-20.83928499650534 -42.72987199979292,-20.861675996649865 -42.85177499971644,-20.88039699662403 -42.886080999838214,-20.846666996084934 -42.886140999907184,-20.82484299690674 -42.83001699998454,-20.808888996829694 -42.783779000000834,-20.825228996720796 -42.71263900008972,-20.81560499627352
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CORONEL PACHECO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.26333499961049,-21.54490299607636 -43.21372599975507,-21.60998999654106 -43.226393000236726,-21.631353996090013 -43.294856999950525,-21.66136799703537 -43.359285999749034,-21.626525996477483 -43.35769300003187,-21.58777399637279 -43.336059999769134,-21.560980996475735 -43.26333499961049,-21.54490299607636
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CORONEL XAVIER CHAVES / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.13432800013703,-21.022969996468134 -44.14293799968891,-21.07334899675874 -44.22448900036704,-21.074740997099298 -44.2742839998067,-21.0569269966835 -44.27776999958576,-21.01601199665629 -44.14734200043296,-20.950471996885085 -44.13432800013703,-21.022969996468134
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>DESCOBERTO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.89425700006046,-21.37251599641604 -42.88556100014,-21.483530996058562 -42.90971299965514,-21.515857996649174 -43.05231900012171,-21.48088199620713 -43.06033800029843,-21.430388996055285 -43.04587299963919,-21.400474997023423 -42.938007000422715,-21.367892996364674 -42.89425700006046,-21.37251599641604
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>DESTERRO DO MELO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.417235000195035,-21.158142996801814 -43.45141299981003,-21.193941996525894 -43.51542700025584,-21.203345996720316 -43.598775000166086,-21.166611997046004 -43.606796000435054,-21.12952299718853 -43.60084800043484,-21.111854997210287 -43.561918000215485,-21.131878997018077 -43.51236500024453,-21.064644996469383 -43.498037999653945,-21.11498599680624 -43.417235000195035,-21.158142996801814
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>DIVINÉSIA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.942603000128315,-20.984518996754275 -42.92258000036668,-21.014220996801498 -42.966746000127785,-21.045612996542502 -43.00752500017859,-21.035942996671906 -43.068811999873844,-20.964701996599842 -43.03688499974288,-20.929424996666228 -42.992281999614534,-20.92739999681237 -42.942603000128315,-20.984518996754275
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>DONA EUSÉBIA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.79499700021137,-21.27136799673559 -42.767078999696025,-21.295914996479837 -42.781283000010376,-21.38443999680834 -42.8302869998451,-21.387989996840815 -42.813755000093124,-21.260695996522998 -42.79499700021137,-21.27136799673559
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>DORES DE CAMPOS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.9637969997317,-21.041913996833443 -43.92960000013983,-21.06299299672935 -43.94122600027964,-21.121636996849873 -44.013386999610304,-21.160833996791496 -44.04472000022781,-21.157592996619428 -44.02497899998082,-21.045102996406115 -43.9637969997317,-21.041913996833443
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>DORES DO TURVO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.10242300032115,-20.955794996841576 -43.08367700009342,-21.02979899662637 -43.10195300023071,-21.11067499675363 -43.119803999654835,-21.11914399699782 -43.13167400025486,-21.120105996394557 -43.15145499964848,-21.068802996660907 -43.239657000370244,-21.087740996749574 -43.243381000332874,-21.083525996627372 -43.25574300023925,-21.010824996676206 -43.23912700021083,-20.968969996468104 -43.172799000073724,-20.92537799709686 -43.130470999636884,-20.98234899650896 -43.10242300032115,-20.955794996841576
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ERVÁLIA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.47920099992615,-20.760164997316735 -42.514025999700095,-20.867033996421753 -42.5661119995691,-20.92206199706345 -42.58204599962312,-20.953095996483 -42.61186000033871,-20.986296996908834 -42.65112399977272,-20.91081699650715 -42.72067200001277,-20.895472996681406 -42.72987199979292,-20.861675996649865 -42.70936700028682,-20.83928499650534 -42.65047799965993,-20.75855099663113 -42.605738999555115,-20.752690997091804 -42.54209399993812,-20.777236996789952 -42.47920099992615,-20.760164997316735
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ESTRELA DALVA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.435197999587956,-21.646359996516594 -42.42279200035051,-21.739831996549356 -42.37769861250092,-21.74838907279741 -42.46324309409346,-21.786221293977462 -42.4823500003522,-21.716165996963127 -42.558911000242404,-21.680651996892095 -42.435197999587956,-21.646359996516594
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>EUGENÓPOLIS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.18734300007935,-20.869859997241008 -42.164665000189586,-20.973694996726692 -42.21754299970962,-21.008371996870096 -42.11849416967016,-21.074795710953254 -42.17449375198504,-21.13177754719601 -42.29881900029659,-21.12255199677719 -42.253942000123175,-21.05110299700567 -42.29865700002051,-21.00014299690173 -42.259794000192926,-20.90552499708093 -42.209842999854516,-20.85439499723128 -42.18734300007935,-20.869859997241008
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>EWBANK DA CÂMARA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.472855000257994,-21.53059199622362 -43.54173300017777,-21.62063699650014 -43.63949100000963,-21.607877996272464 -43.54535800007159,-21.520677996792074 -43.472855000257994,-21.53059199622362
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>GOIANÁ / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.235354999833305,-21.494851996522357 -43.13226100034484,-21.520857996099608 -43.12318199984935,-21.57100999671394 -43.16923699948791,-21.617617996673175 -43.226393000236726,-21.631353996090013 -43.21372599975507,-21.60998999654106 -43.26333499961049,-21.54490299607636 -43.235354999833305,-21.494851996522357
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>GUARACIABA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.88200099964638,-20.568596997153634 -42.947310999602905,-20.618621997307287 -42.929621000408815,-20.661423997119698 -42.96721600021817,-20.678138997216877 -43.02033900024463,-20.655513997073285 -43.01970699987811,-20.600260996847453 -43.13799000013836,-20.561808997087496 -43.157290999879706,-20.51160599681924 -43.05251300007484,-20.455835997033603 -43.036234000298805,-20.448892997014184 -42.97361300023971,-20.50852399678496 -42.88200099964638,-20.568596997153634
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>GUARANI / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.926404999591,-21.302833997191158 -42.938007000422715,-21.367892996364674 -43.04587299963919,-21.400474997023423 -43.06033800029843,-21.430388996055285 -43.086395000428865,-21.439318995974816 -43.158591000474246,-21.391195996298165 -43.18328499980288,-21.3515099971886 -43.157121000134,-21.310752996353642 -43.073039999696164,-21.290708996522937 -43.04601900007674,-21.315582996957687 -42.926404999591,-21.302833997191158
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>GUARARÁ / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.960752999851024,-21.733212996182772 -43.04279399974325,-21.827086996767434 -43.061215000272,-21.8231799964596 -43.076216999614815,-21.7985269963238 -43.020122000130186,-21.698613996039057 -42.960752999851024,-21.733212996182772
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>GUIDOVAL / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.70673000008941,-21.141850996426285 -42.75288599988892,-21.203270996858976 -42.79499700021137,-21.27136799673559 -42.813755000093124,-21.260695996522998 -42.80495199973495,-21.17771699654213 -42.861868000208005,-21.156871996645293 -42.84568200022409,-21.107020996421795 -42.79011900009175,-21.095925996487495 -42.70673000008941,-21.141850996426285
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>GUIRICEMA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.61186000033871,-20.986296996908834 -42.65534400012547,-21.07768199692657 -42.70673000008941,-21.141850996426285 -42.79011900009175,-21.095925996487495 -42.76366499963996,-21.06291199659131 -42.758080000191796,-20.96624699680143 -42.72067200001277,-20.895472996681406 -42.65112399977272,-20.91081699650715 -42.61186000033871,-20.986296996908834
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>IBERTIOGA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.82342999999446,-21.50918399644422 -43.86861700007444,-21.497045996975146 -44.01489299981205,-21.53809799702492 -44.054708000373864,-21.517542997011674 -44.051081000387796,-21.450669996922784 -44.08910700028781,-21.43537499665871 -44.00543099964085,-21.363236996590103 -43.92061200024358,-21.37438799640887 -43.88015699984561,-21.35306399690586 -43.82342999999446,-21.50918399644422
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ITAMARATI DE MINAS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.8302869998451,-21.387989996840815 -42.781283000010376,-21.38443999680834 -42.79918700007994,-21.42442299612435 -42.82321400012597,-21.47009499608714 -42.88556100014,-21.483530996058562 -42.89425700006046,-21.37251599641604 -42.8302869998451,-21.387989996840815
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>JUIZ DE FORA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.41915099951899,-21.530886996337756 -43.35769300003187,-21.58777399637279 -43.359285999749034,-21.626525996477483 -43.294856999950525,-21.66136799703537 -43.26190400016941,-21.684641996530843 -43.246594000112964,-21.769980996525703 -43.18758700033976,-21.742863996076494 -43.17124400031031,-21.759519996150857 -43.15678599997386,-21.827160996582677 -43.18878399978172,-21.85456999610841 -43.236980000126835,-21.86175399644975 -43.25211200006868,-21.82826699632477 -43.33483227409016,-21.80951908503772 -43.38254700044365,-21.832852996468546 -43.37457000040513,-21.89595999645661 -43.44207800009957,-21.876290996831983 -43.49524799959545,-21.891440996704603 -43.49476799994318,-21.932899996637502 -43.58512700031076,-21.99892499629152 -43.59835999991401,-21.923627996234984 -43.665487000024996,-21.853403996297345 -43.634007999869254,-21.810822996783827 -43.66789400040773,-21.75039099694692 -43.67896199999626,-21.711929996771914 -43.68420900004526,-21.62672699675346 -43.665969999815616,-21.605345996420567 -43.63949100000963,-21.607877996272464 -43.54173300017777,-21.62063699650014 -43.472855000257994,-21.53059199622362 -43.41915099951899,-21.530886996337756
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>LAGOA DOURADA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.14974399968577,-20.765051996952025 -44.0548250003734,-20.80363899664235 -44.0023390000448,-20.80006199626405 -43.97467000022027,-20.880868996806726 -43.922468000397885,-20.92747199653536 -43.99492900007323,-20.988766996599566 -44.08519899993388,-20.995713996803488 -44.13432800013703,-21.022969996468134 -44.14734200043296,-20.950471996885085 -44.14977400016994,-20.90088699723708 -44.20196699957734,-20.863678997287877 -44.19321000044113,-20.797580996965394 -44.14974399968577,-20.765051996952025
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>LARANJAL / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.39907200007269,-21.3006239968999 -42.41547099998661,-21.348798997175948 -42.383576000432015,-21.378237996786083 -42.39177599996236,-21.445452996458584 -42.45248399993659,-21.438354996485828 -42.49089999983511,-21.391210996090535 -42.52346400056314,-21.400317996977947 -42.529273999595375,-21.336945996460543 -42.502396000275155,-21.31184899653391 -42.46292600033462,-21.269471996535344 -42.39907200007269,-21.3006239968999
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>LEOPOLDINA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.45248399993659,-21.438354996485828 -42.52903400021887,-21.513308996013336 -42.51422599992992,-21.561097996475326 -42.41056700046664,-21.6015009962739 -42.435197999587956,-21.646359996516594 -42.558911000242404,-21.680651996892095 -42.62268799965142,-21.70208799616404 -42.72879699968172,-21.664514996469848 -42.7461620000762,-21.651021996567863 -42.74781800000068,-21.62403299662543 -42.83095900025762,-21.543833996241915 -42.865693000331646,-21.584582996707866 -42.847658999663054,-21.528546996346734 -42.90971299965514,-21.515857996649174 -42.88556100014,-21.483530996058562 -42.82321400012597,-21.47009499608714 -42.79918700007994,-21.42442299612435 -42.78252399968278,-21.460703996492214 -42.72448999981361,-21.42918199615218 -42.680546000397555,-21.444885996391577 -42.61127700043318,-21.41142999679687 -42.53222699997605,-21.43569699621935 -42.52346400056314,-21.400317996977947 -42.49089999983511,-21.391210996090535 -42.45248399993659,-21.438354996485828
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>LIBERDADE / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.28572400036228,-21.928624996446388 -44.25658200005921,-21.975441997050496 -44.228341999983286,-22.075476996665998 -44.29196100019993,-22.111708996572872 -44.31937499995627,-22.155500996174 -44.34884500009662,-22.106185996386557 -44.43030900036001,-22.115426996258805 -44.43681099982774,-22.067241996420933 -44.37931699967976,-21.94080399600756 -44.39855999944439,-21.866399996662494 -44.32660699981312,-21.86992099715627 -44.28572400036228,-21.928624996446388
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>LIMA DUARTE / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.87301599968862,-21.678840997014333 -43.87237499980637,-21.710147996432852 -43.7891490001262,-21.71315699669799 -43.713966999977,-21.80487199664526 -43.66789400040773,-21.75039099694692 -43.634007999869254,-21.810822996783827 -43.665487000024996,-21.853403996297345 -43.74276899988939,-21.85519999638268 -43.764960999850246,-21.908062997009665 -43.814688999797454,-21.957257996659166 -43.86012499966898,-21.964884996745184 -43.8676430001243,-21.962183996294357 -43.86483500013509,-21.928792996999164 -43.91513400033381,-21.889801996664744 -43.93345499984832,-21.84433199702397 -44.0182439996608,-21.854188996524897 -44.08691099974283,-21.88519299635965 -44.09086999975062,-21.79687699667602 -44.07126300028722,-21.73048699637775 -43.99390399956991,-21.68942499676615 -43.9571010003109,-21.63505299669839 -43.87301599968862,-21.678840997014333
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>MADRE DE DEUS DE MINAS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.19877199972797,-21.390770996484264 -44.24319799978781,-21.485648996603857 -44.22084799973538,-21.56677099638432 -44.32851000033622,-21.597081996636803 -44.38644900032108,-21.58611399716318 -44.45634400037528,-21.518273996547634 -44.481792000300516,-21.408212996832276 -44.364170999991586,-21.408463996716023 -44.26114399999557,-21.370488996469987 -44.19877199972797,-21.390770996484264
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>MAR DE ESPANHA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.89444499973689,-21.812404996893065 -42.881512999625215,-21.83180699679542 -42.88447400037478,-21.851378996443486 -42.96766000000895,-21.94351299682728 -43.12111699994955,-21.98629199647843 -43.10930800036391,-21.95118799642887 -43.13421399957639,-21.88326599652845 -43.061215000272,-21.8231799964596 -43.04279399974325,-21.827086996767434 -42.960752999851024,-21.733212996182772 -42.94823800008362,-21.77848499658529 -42.89444499973689,-21.812404996893065
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>MARIPÁ DE MINAS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.91330199968752,-21.663963997140684 -42.89933699960278,-21.69277299647655 -42.960752999851024,-21.733212996182772 -43.020122000130186,-21.698613996039057 -43.02910899998034,-21.675736996864885 -42.98130599977202,-21.649832996595478 -42.91330199968752,-21.663963997140684
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>MATIAS BARBOSA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.236980000126835,-21.86175399644975 -43.254272999899,-21.930204996463374 -43.26817499977636,-21.901224996436383 -43.345774480108105,-21.916088005556958 -43.37457000040513,-21.89595999645661 -43.38254700044365,-21.832852996468546 -43.33483227409016,-21.80951908503772 -43.25211200006868,-21.82826699632477 -43.236980000126835,-21.86175399644975
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>MERCÊS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.243381000332874,-21.083525996627372 -43.239657000370244,-21.087740996749574 -43.244784000281356,-21.210869996553072 -43.268386999660265,-21.27837399696233 -43.3242029997686,-21.29649699723859 -43.37168200032403,-21.284666996684507 -43.441193999803204,-21.250674996653743 -43.45141299981003,-21.193941996525894 -43.417235000195035,-21.158142996801814 -43.363949999892554,-21.15176499675715 -43.35283599998138,-21.09271799693795 -43.27165800031639,-21.05833999619381 -43.243381000332874,-21.083525996627372
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>MINDURI / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.49662099975927,-21.576523996485207 -44.51537300026371,-21.61797099676403 -44.570328000237,-21.654490996462243 -44.58129100037934,-21.751416996597072 -44.64580000026973,-21.774086997017264 -44.69162700018586,-21.74332799678956 -44.703088999957345,-21.714808996437966 -44.676213999876154,-21.64029399647069 -44.64562300020128,-21.62094999654505 -44.49662099975927,-21.576523996485207
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>MIRAÍ / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.5288010002659,-21.202678996538395 -42.61258399955187,-21.23264699716117 -42.722940000280744,-21.220564996677183 -42.75288599988892,-21.203270996858976 -42.70673000008941,-21.141850996426285 -42.65534400012547,-21.07768199692657 -42.54659899994385,-21.043981996871594 -42.50516700035672,-21.08859699665402 -42.5288010002659,-21.202678996538395
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>MURIAÉ / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.34806200036098,-20.95878799726819 -42.29865700002051,-21.00014299690173 -42.253942000123175,-21.05110299700567 -42.29881900029659,-21.12255199677719 -42.32746800034789,-21.210318997223908 -42.33137399971025,-21.272102996456056 -42.3637820004389,-21.306356996877867 -42.39907200007269,-21.3006239968999 -42.46292600033462,-21.269471996535344 -42.53292699988111,-21.230093997240147 -42.5288010002659,-21.202678996538395 -42.50516700035672,-21.08859699665402 -42.54659899994385,-21.043981996871594 -42.51513300038761,-21.003273996497683 -42.46120099992618,-21.01382599657245 -42.42711800019549,-20.95565199654237 -42.5661119995691,-20.92206199706345 -42.514025999700095,-20.867033996421753 -42.44105299979606,-20.875824997125846 -42.41638599991393,-20.943928996425996 -42.34806200036098,-20.95878799726819
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>OLARIA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.8676430001243,-21.962183996294357 -43.976926999981,-21.95666199705346 -44.08691099974283,-21.88519299635965 -44.0182439996608,-21.854188996524897 -43.93345499984832,-21.84433199702397 -43.91513400033381,-21.889801996664744 -43.86483500013509,-21.928792996999164 -43.8676430001243,-21.962183996294357
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>OLIVEIRA FORTES / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.4238650001696,-21.336743997037786 -43.46978399983169,-21.371478996258645 -43.557108999680565,-21.356662996500063 -43.63106800008808,-21.37569699651914 -43.580846999889104,-21.318766997199134 -43.476659000312566,-21.28061899706904 -43.4238650001696,-21.336743997037786
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PAIVA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.37168200032403,-21.284666996684507 -43.4238650001696,-21.336743997037786 -43.476659000312566,-21.28061899706904 -43.441193999803204,-21.250674996653743 -43.37168200032403,-21.284666996684507
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PALMA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.3637820004389,-21.306356996877867 -42.25479399984317,-21.3500429969867 -42.23555700485184,-21.342928345166968 -42.2921249209283,-21.45923811594622 -42.257440439324796,-21.482346574534745 -42.346004142876836,-21.582744683520275 -42.34854900033605,-21.50068299652304 -42.39177599996236,-21.445452996458584 -42.383576000432015,-21.378237996786083 -42.41547099998661,-21.348798997175948 -42.39907200007269,-21.3006239968999 -42.3637820004389,-21.306356996877867
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PASSA-VINTE / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.20727500064072,-22.07040299650106 -44.221604000424236,-22.130973996452724 -44.179368523138805,-22.228510108354783 -44.23675262613273,-22.265780969116406 -44.26273769398932,-22.244084003673777 -44.35962233700121,-22.25402161660429 -44.31937499995627,-22.155500996174 -44.29196100019993,-22.111708996572872 -44.228341999983286,-22.075476996665998 -44.20727500064072,-22.07040299650106
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PATROCÍNIO DO MURIAÉ / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.17449375198504,-21.13177754719601 -42.20833276564457,-21.179016069036322 -42.202640469881715,-21.221242840884372 -42.27775600023915,-21.20124499695902 -42.32746800034789,-21.210318997223908 -42.29881900029659,-21.12255199677719 -42.17449375198504,-21.13177754719601
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PAULA CÂNDIDO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.886140999907184,-20.82484299690674 -42.886080999838214,-20.846666996084934 -42.93314400009547,-20.947367996735636 -42.942603000128315,-20.984518996754275 -42.992281999614534,-20.92739999681237 -43.03688499974288,-20.929424996666228 -43.04248199974444,-20.88185699650313 -43.08169999975513,-20.81621499652482 -43.03606999993053,-20.770725996907174 -42.996948999896404,-20.756423996570163 -42.886140999907184,-20.82484299690674
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PEDRO TEIXEIRA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.67896199999626,-21.711929996771914 -43.66789400040773,-21.75039099694692 -43.713966999977,-21.80487199664526 -43.7891490001262,-21.71315699669799 -43.77130800026396,-21.66546599715798 -43.7156860001088,-21.670341997185403 -43.67896199999626,-21.711929996771914
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PEQUERI / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.076216999614815,-21.7985269963238 -43.061215000272,-21.8231799964596 -43.13421399957639,-21.88326599652845 -43.18878399978172,-21.85456999610841 -43.15678599997386,-21.827160996582677 -43.17124400031031,-21.759519996150857 -43.076216999614815,-21.7985269963238
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PIAU / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.30064199962851,-21.432327996439824 -43.26152399973273,-21.439298995951845 -43.235354999833305,-21.494851996522357 -43.26333499961049,-21.54490299607636 -43.336059999769134,-21.560980996475735 -43.35769300003187,-21.58777399637279 -43.41915099951899,-21.530886996337756 -43.344751000358315,-21.450556996208377 -43.30064199962851,-21.432327996439824
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PIEDADE DO RIO GRANDE / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.08910700028781,-21.43537499665871 -44.051081000387796,-21.450669996922784 -44.054708000373864,-21.517542997011674 -44.08535399988716,-21.54399699656409 -44.10503400001903,-21.580624996746167 -44.16355900004777,-21.589391996343522 -44.22084799973538,-21.56677099638432 -44.24319799978781,-21.485648996603857 -44.19877199972797,-21.390770996484264 -44.14303899984992,-21.385694997126393 -44.08910700028781,-21.43537499665871
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PIRAPETINGA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.35265608271203,-21.59168671007359 -42.36515220121305,-21.64645848487112 -42.30170916324727,-21.65496390136292 -42.26942901103996,-21.716983068813533 -42.37769861250092,-21.74838907279741 -42.42279200035051,-21.739831996549356 -42.435197999587956,-21.646359996516594 -42.41056700046664,-21.6015009962739 -42.35265608271203,-21.59168671007359
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PIRAÚBA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.97042599985997,-21.256977996837065 -42.955168000402864,-21.26464099678452 -42.926404999591,-21.302833997191158 -43.04601900007674,-21.315582996957687 -43.073039999696164,-21.290708996522937 -43.10330999985655,-21.26464199683062 -43.10378400013144,-21.20112399677498 -43.024188999722526,-21.20629199677819 -42.97042599985997,-21.256977996837065
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PORTO FIRME / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.96721600021817,-20.678138997216877 -43.002447999875244,-20.707565997172992 -42.996948999896404,-20.756423996570163 -43.03606999993053,-20.770725996907174 -43.099606999963044,-20.70758699724206 -43.163198999833924,-20.724321996462947 -43.18670199999724,-20.58583299699518 -43.13799000013836,-20.561808997087496 -43.01970699987811,-20.600260996847453 -43.02033900024463,-20.655513997073285 -42.96721600021817,-20.678138997216877
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PRADOS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.99492900007323,-20.988766996599566 -43.9637969997317,-21.041913996833443 -44.02497899998082,-21.045102996406115 -44.04472000022781,-21.157592996619428 -44.013386999610304,-21.160833996791496 -44.00188199965453,-21.22094499711386 -44.02293700024234,-21.241572996896252 -44.12135599997936,-21.178770996584205 -44.10063200026656,-21.12057999666945 -44.14293799968891,-21.07334899675874 -44.13432800013703,-21.022969996468134 -44.08519899993388,-20.995713996803488 -43.99492900007323,-20.988766996599566
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>RECREIO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.39177599996236,-21.445452996458584 -42.34854900033605,-21.50068299652304 -42.346004142876836,-21.582744683520275 -42.35265608271203,-21.59168671007359 -42.41056700046664,-21.6015009962739 -42.51422599992992,-21.561097996475326 -42.52903400021887,-21.513308996013336 -42.45248399993659,-21.438354996485828 -42.39177599996236,-21.445452996458584
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>RESSAQUINHA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.7085849999977,-21.020027996594706 -43.65998900009225,-21.032365996293663 -43.6312750006407,-21.095260996397826 -43.71579199960104,-21.128278996478457 -43.81144600043251,-21.112954996675683 -43.830474000174945,-21.14583199654936 -43.909556000309124,-21.124509996239283 -43.771981999869354,-21.064457995939733 -43.7085849999977,-21.020027996594706
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>RIO NOVO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.06033800029843,-21.430388996055285 -43.05231900012171,-21.48088199620713 -43.09115699969573,-21.5572919963285 -43.12318199984935,-21.57100999671394 -43.13226100034484,-21.520857996099608 -43.235354999833305,-21.494851996522357 -43.26152399973273,-21.439298995951845 -43.194228999968345,-21.428780996545697 -43.158591000474246,-21.391195996298165 -43.086395000428865,-21.439318995974816 -43.06033800029843,-21.430388996055285
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>RIO POMBA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.119803999654835,-21.11914399699782 -43.10378400013144,-21.20112399677498 -43.10330999985655,-21.26464199683062 -43.073039999696164,-21.290708996522937 -43.157121000134,-21.310752996353642 -43.18328499980288,-21.3515099971886 -43.27200900031505,-21.31673799716077 -43.268386999660265,-21.27837399696233 -43.244784000281356,-21.210869996553072 -43.202934000303856,-21.223172996436574 -43.13167400025486,-21.120105996394557 -43.119803999654835,-21.11914399699782
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>RIO PRETO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.8676430001243,-21.962183996294357 -43.86012499966898,-21.964884996745184 -43.750110000276266,-22.021295996413073 -43.70888803285641,-22.075773852081568 -43.77650160576445,-22.06603598577209 -43.84158369143415,-22.099147420017403 -43.97714864689249,-22.146398781478524 -43.96959199987083,-22.044835996483982 -44.00012300037611,-22.022138996617343 -43.976926999981,-21.95666199705346 -43.8676430001243,-21.962183996294357
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ROCHEDO DE MINAS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.98130599977202,-21.649832996595478 -43.02910899998034,-21.675736996864885 -43.09151299992499,-21.660183996394267 -43.01997999987702,-21.584916996821903 -42.98130599977202,-21.649832996595478
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>RODEIRO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.813755000093124,-21.260695996522998 -42.86137399991014,-21.241956996618057 -42.88358299975562,-21.19980999643417 -42.861868000208005,-21.156871996645293 -42.80495199973495,-21.17771699654213 -42.813755000093124,-21.260695996522998
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ROSÁRIO DA LIMEIRA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.54659899994385,-21.043981996871594 -42.58204599962312,-20.953095996483 -42.5661119995691,-20.92206199706345 -42.42711800019549,-20.95565199654237 -42.46120099992618,-21.01382599657245 -42.51513300038761,-21.003273996497683 -42.54659899994385,-21.043981996871594
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTA BÁRBARA DO MONTE VERDE / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.665487000024996,-21.853403996297345 -43.59835999991401,-21.923627996234984 -43.58512700031076,-21.99892499629152 -43.59141155360027,-22.055785769397687 -43.70888803285641,-22.075773852081568 -43.750110000276266,-22.021295996413073 -43.86012499966898,-21.964884996745184 -43.814688999797454,-21.957257996659166 -43.764960999850246,-21.908062997009665 -43.74276899988939,-21.85519999638268 -43.665487000024996,-21.853403996297345
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTA BÁRBARA DO TUGÚRIO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.45141299981003,-21.193941996525894 -43.441193999803204,-21.250674996653743 -43.476659000312566,-21.28061899706904 -43.580846999889104,-21.318766997199134 -43.61009599973056,-21.22543999665845 -43.598775000166086,-21.166611997046004 -43.51542700025584,-21.203345996720316 -43.45141299981003,-21.193941996525894
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTA CRUZ DE MINAS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.204684999912786,-21.115458996135715 -44.199813024351556,-21.122760433547114 -44.22942101197009,-21.1277927429407 -44.22081904246477,-21.11469650593898 -44.204684999912786,-21.115458996135715
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTA RITA DE IBITIPOCA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.82342999999446,-21.50918399644422 -43.81462100025891,-21.526155996701846 -43.827222000394954,-21.60678899641499 -43.87301599968862,-21.678840997014333 -43.9571010003109,-21.63505299669839 -44.05259500005917,-21.588208996647836 -44.08535399988716,-21.54399699656409 -44.054708000373864,-21.517542997011674 -44.01489299981205,-21.53809799702492 -43.86861700007444,-21.497045996975146 -43.82342999999446,-21.50918399644422
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTA RITA DE JACUTINGA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.00012300037611,-22.022138996617343 -43.96959199987083,-22.044835996483982 -43.97714864689249,-22.146398781478524 -44.10129340486668,-22.17372102610443 -44.179368523138805,-22.228510108354783 -44.221604000424236,-22.130973996452724 -44.20727500064072,-22.07040299650106 -44.07959599965562,-21.99536499669722 -44.051406000086786,-22.032362996854772 -44.00012300037611,-22.022138996617343
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTANA DE CATAGUASES / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.5288010002659,-21.202678996538395 -42.53292699988111,-21.230093997240147 -42.46292600033462,-21.269471996535344 -42.502396000275155,-21.31184899653391 -42.58506200021111,-21.354068996486944 -42.629104999695926,-21.31849799648529 -42.59048300019026,-21.255218996659323 -42.61258399955187,-21.23264699716117 -42.5288010002659,-21.202678996538395
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTANA DO DESERTO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.18878399978172,-21.85456999610841 -43.13421399957639,-21.88326599652845 -43.10930800036391,-21.95118799642887 -43.12111699994955,-21.98629199647843 -43.13122315392536,-22.029213151965337 -43.22769134248142,-22.02875095349367 -43.22100299988847,-21.983485996581408 -43.254272999899,-21.930204996463374 -43.236980000126835,-21.86175399644975 -43.18878399978172,-21.85456999610841
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTANA DO GARAMBÉU / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.9571010003109,-21.63505299669839 -43.99390399956991,-21.68942499676615 -44.07126300028722,-21.73048699637775 -44.0772629999874,-21.66289499640692 -44.13672400001252,-21.656303996432257 -44.16355900004777,-21.589391996343522 -44.10503400001903,-21.580624996746167 -44.08535399988716,-21.54399699656409 -44.05259500005917,-21.588208996647836 -43.9571010003109,-21.63505299669839
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTO ANTÔNIO DO AVENTUREIRO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.72879699968172,-21.664514996469848 -42.75612099978429,-21.700481996746703 -42.757812999570206,-21.773681996327014 -42.78020299966863,-21.838429996447132 -42.881512999625215,-21.83180699679542 -42.89444499973689,-21.812404996893065 -42.862793999743246,-21.795914996379906 -42.86832899958364,-21.703333996966364 -42.806597000051454,-21.658041996540874 -42.7461620000762,-21.651021996567863 -42.72879699968172,-21.664514996469848
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTOS DUMONT / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.46978399983169,-21.371478996258645 -43.472120999684364,-21.411864996172596 -43.35269499977437,-21.35801599684072 -43.30064199962851,-21.432327996439824 -43.344751000358315,-21.450556996208377 -43.41915099951899,-21.530886996337756 -43.472855000257994,-21.53059199622362 -43.54535800007159,-21.520677996792074 -43.63949100000963,-21.607877996272464 -43.665969999815616,-21.605345996420567 -43.706097000376246,-21.58528899599031 -43.64890999999648,-21.4974509958667 -43.68732499984884,-21.38490299657599 -43.63106800008808,-21.37569699651914 -43.557108999680565,-21.356662996500063 -43.46978399983169,-21.371478996258645
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SÃO GERALDO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.72987199979292,-20.861675996649865 -42.72067200001277,-20.895472996681406 -42.758080000191796,-20.96624699680143 -42.812853999912136,-20.93613999696322 -42.93314400009547,-20.947367996735636 -42.886080999838214,-20.846666996084934 -42.85177499971644,-20.88039699662403 -42.72987199979292,-20.861675996649865
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SÃO JOÃO DEL REI / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.2742839998067,-21.0569269966835 -44.22448900036704,-21.074740997099298 -44.204684999912786,-21.115458996135715 -44.22081904246477,-21.11469650593898 -44.22942101197009,-21.1277927429407 -44.199813024351556,-21.122760433547114 -44.12135599997936,-21.178770996584205 -44.02293700024234,-21.241572996896252 -44.00543099964085,-21.363236996590103 -44.08910700028781,-21.43537499665871 -44.14303899984992,-21.385694997126393 -44.19877199972797,-21.390770996484264 -44.26114399999557,-21.370488996469987 -44.364170999991586,-21.408463996716023 -44.481792000300516,-21.408212996832276 -44.511301999587545,-21.35413599687871 -44.57482900005829,-21.309250997235665 -44.507477000363224,-21.27949599654295 -44.46602391707006,-21.230980021011135 -44.42539699957183,-21.17830099649376 -44.40938999974867,-21.08970399644221 -44.2742839998067,-21.0569269966835
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SÃO JOÃO NEPOMUCENO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.90971299965514,-21.515857996649174 -42.847658999663054,-21.528546996346734 -42.865693000331646,-21.584582996707866 -42.91330199968752,-21.663963997140684 -42.98130599977202,-21.649832996595478 -43.01997999987702,-21.584916996821903 -43.09151299992499,-21.660183996394267 -43.132993000826275,-21.69468999674592 -43.16923699948791,-21.617617996673175 -43.12318199984935,-21.57100999671394 -43.09115699969573,-21.5572919963285 -43.05231900012171,-21.48088199620713 -42.90971299965514,-21.515857996649174
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SÃO MIGUEL DO ANTA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.6977784002529,-20.657252997228 -42.65047799965993,-20.75855099663113 -42.70936700028682,-20.83928499650534 -42.71263900008972,-20.81560499627352 -42.75357500018606,-20.745176996820874 -42.7823390001447,-20.673163997120753 -42.76910000026476,-20.667666997234107 -42.6977784002529,-20.657252997228
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SÃO SEBASTIÃO DA VARGEM ALEGRE / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.58204599962312,-20.953095996483 -42.54659899994385,-21.043981996871594 -42.65534400012547,-21.07768199692657 -42.61186000033871,-20.986296996908834 -42.58204599962312,-20.953095996483
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SÃO VICENTE DE MINAS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.38644900032108,-21.58611399716318 -44.39921199983388,-21.62133199707398 -44.35565800041633,-21.656398996316568 -44.384641999728444,-21.71424899669381 -44.458799000273586,-21.732119997040172 -44.492443999590876,-21.789760996772543 -44.58129100037934,-21.751416996597072 -44.570328000237,-21.654490996462243 -44.51537300026371,-21.61797099676403 -44.49662099975927,-21.576523996485207 -44.45634400037528,-21.518273996547634 -44.38644900032108,-21.58611399716318
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SENADOR CORTES / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.86832899958364,-21.703333996966364 -42.862793999743246,-21.795914996379906 -42.89444499973689,-21.812404996893065 -42.94823800008362,-21.77848499658529 -42.960752999851024,-21.733212996182772 -42.89933699960278,-21.69277299647655 -42.86832899958364,-21.703333996966364
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SENADOR FIRMINO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.03688499974288,-20.929424996666228 -43.068811999873844,-20.964701996599842 -43.10242300032115,-20.955794996841576 -43.130470999636884,-20.98234899650896 -43.172799000073724,-20.92537799709686 -43.14689799994272,-20.84747599651996 -43.08169999975513,-20.81621499652482 -43.04248199974444,-20.88185699650313 -43.03688499974288,-20.929424996666228
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SENHORA DOS REMÉDIOS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.51236500024453,-21.064644996469383 -43.561918000215485,-21.131878997018077 -43.60084800043484,-21.111854997210287 -43.6312750006407,-21.095260996397826 -43.65998900009225,-21.032365996293663 -43.7085849999977,-21.020027996594706 -43.647579000670305,-20.954114996709677 -43.58091999965819,-20.94937199652037 -43.53584600029262,-20.9955899964811 -43.51236500024453,-21.064644996469383
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SERITINGA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.39855999944439,-21.866399996662494 -44.37931699967976,-21.94080399600756 -44.441252999626215,-21.95953399639677 -44.51310900018018,-21.927227996774604 -44.55653499999022,-21.969238996082765 -44.55779999987004,-21.904350996701112 -44.501519999948016,-21.905992995979943 -44.44074900066579,-21.873016996037506 -44.39855999944439,-21.866399996662494
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SILVEIRÂNIA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.13167400025486,-21.120105996394557 -43.202934000303856,-21.223172996436574 -43.244784000281356,-21.210869996553072 -43.239657000370244,-21.087740996749574 -43.15145499964848,-21.068802996660907 -43.13167400025486,-21.120105996394557
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SIMÃO PEREIRA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.254272999899,-21.930204996463374 -43.22100299988847,-21.983485996581408 -43.22769134248142,-22.02875095349367 -43.3266497582797,-22.007825202570984 -43.37222900036801,-21.952598996746246 -43.345774480108105,-21.916088005556958 -43.26817499977636,-21.901224996436383 -43.254272999899,-21.930204996463374
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>TABULEIRO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.18328499980288,-21.3515099971886 -43.158591000474246,-21.391195996298165 -43.194228999968345,-21.428780996545697 -43.26152399973273,-21.439298995951845 -43.30064199962851,-21.432327996439824 -43.35269499977437,-21.35801599684072 -43.3242029997686,-21.29649699723859 -43.268386999660265,-21.27837399696233 -43.27200900031505,-21.31673799716077 -43.18328499980288,-21.3515099971886
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>TEIXEIRAS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.8012170001644,-20.605986996502622 -42.76910000026476,-20.667666997234107 -42.7823390001447,-20.673163997120753 -42.88304500012663,-20.695115996805782 -42.929621000408815,-20.661423997119698 -42.947310999602905,-20.618621997307287 -42.88200099964638,-20.568596997153634 -42.869698999808975,-20.5605489965389 -42.8012170001644,-20.605986996502622
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>TIRADENTES / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.14293799968891,-21.07334899675874 -44.10063200026656,-21.12057999666945 -44.12135599997936,-21.178770996584205 -44.199813024351556,-21.122760433547114 -44.204684999912786,-21.115458996135715 -44.22448900036704,-21.074740997099298 -44.14293799968891,-21.07334899675874
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>TOCANTINS / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.97042599985997,-21.256977996837065 -43.024188999722526,-21.20629199677819 -43.10378400013144,-21.20112399677498 -43.119803999654835,-21.11914399699782 -43.10195300023071,-21.11067499675363 -42.99863800044335,-21.136598997046008 -42.922997999857785,-21.212588996684815 -42.97042599985997,-21.256977996837065
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>UBÁ / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.068811999873844,-20.964701996599842 -43.00752500017859,-21.035942996671906 -42.966746000127785,-21.045612996542502 -42.92258000036668,-21.014220996801498 -42.86869999960527,-21.054681996576846 -42.84568200022409,-21.107020996421795 -42.861868000208005,-21.156871996645293 -42.88358299975562,-21.19980999643417 -42.86137399991014,-21.241956996618057 -42.955168000402864,-21.26464099678452 -42.97042599985997,-21.256977996837065 -42.922997999857785,-21.212588996684815 -42.99863800044335,-21.136598997046008 -43.10195300023071,-21.11067499675363 -43.08367700009342,-21.02979899662637 -43.10242300032115,-20.955794996841576 -43.068811999873844,-20.964701996599842
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>VIÇOSA / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.75357500018606,-20.745176996820874 -42.82576600000084,-20.756301997239348 -42.83001699998454,-20.808888996829694 -42.886140999907184,-20.82484299690674 -42.996948999896404,-20.756423996570163 -43.002447999875244,-20.707565997172992 -42.96721600021817,-20.678138997216877 -42.929621000408815,-20.661423997119698 -42.88304500012663,-20.695115996805782 -42.7823390001447,-20.673163997120753 -42.75357500018606,-20.745176996820874
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>VISCONDE DO RIO BRANCO / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.758080000191796,-20.96624699680143 -42.76366499963996,-21.06291199659131 -42.79011900009175,-21.095925996487495 -42.84568200022409,-21.107020996421795 -42.86869999960527,-21.054681996576846 -42.92258000036668,-21.014220996801498 -42.942603000128315,-20.984518996754275 -42.93314400009547,-20.947367996735636 -42.812853999912136,-20.93613999696322 -42.758080000191796,-20.96624699680143
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>VOLTA GRANDE / MG</name>
+      <description>ATENDIMENTO VIA FILIAL BH, SEM RESPONSAVEL, None</description>
+      <styleUrl>#poly-3770b5ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -42.558911000242404,-21.680651996892095 -42.4823500003522,-21.716165996963127 -42.46324309409346,-21.786221293977462 -42.605988770065665,-21.846381670677488 -42.640447000228846,-21.76059499716132 -42.62268799965142,-21.70208799616404 -42.558911000242404,-21.680651996892095
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+  </Document>
+</kml>

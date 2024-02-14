@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KLEBER DE S DOS SANTOS</name>
+	<StyleMap id="__managed_style_07E523B8E32E9FA06526">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B205739A02E9FA06526</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_243682C15B2E9FA06526</styleUrl>
+		</Pair>
+	</StyleMap>
+        <gx:CascadingStyle kml:id="__managed_style_-2CEDD0A18082AFD2">
+            <Style>
+                <IconStyle>
+                    <scale>1.2</scale>
+                    <Icon>
+                        <href>https://earth.google.com/earth/rpc/cc/icon?color=553f26ff&amp;id=2000&amp;scale=4</href>
+                    </Icon>
+                    <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+                </IconStyle>
+                <LabelStyle>
+                </LabelStyle>
+                <LineStyle>
+                    <color>553f26ffff</color>
+                    <width>3.2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>40ffffff</color>
+                </PolyStyle>
+                <BalloonStyle>
+                    <displayMode>hide</displayMode>
+                </BalloonStyle>
+            </Style>
+        </gx:CascadingStyle>
+        <Placemark>
+            <name>JABOATÃO DOS GUARARAPES / PE</name>
+            <styleUrl>#__managed_style_07E523B8E32E9FA06526</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -34.908867821992374,-8.155123269323383 -34.92725912780645,-8.224392030068088 -34.976981269569876,-8.231094481225284 -35.00704978921635,-8.20603937891417 -35.064495688225406,-8.222790467905725 -35.06590001647254,-8.200735087554222 -35.09709695595973,-8.16164613755916 -35.058163101246066,-8.087970627742209 -35.05514591984826,-8.067288740582853 -35.01669502895237,-8.055808150925373 -34.97390106997835,-8.078296280548841 -34.952993473669835,-8.138614363262207 -34.908867821992374,-8.155123269323383
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>DUDAS BURGUER IND E COM DE PANIF LTDA</name>
+	<StyleMap id="__managed_style_07E523B8E32E9FA06526">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B205739A02E9FA06526</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_243682C15B2E9FA06526</styleUrl>
+		</Pair>
+	</StyleMap>
+        <gx:CascadingStyle kml:id="__managed_style_7AC244F4FE39E753">
+            <Style>
+                <IconStyle>
+                    <scale>1.2</scale>
+                    <Icon>
+                        <href>https://earth.google.com/earth/rpc/cc/icon?color=f07591ff&amp;id=2000&amp;scale=4</href>
+                    </Icon>
+                    <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+                </IconStyle>
+                <LabelStyle>
+                </LabelStyle>
+                <LineStyle>
+                    <color>f07591ffff</color>
+                    <width>3.2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>40ffffff</color>
+                </PolyStyle>
+                <BalloonStyle>
+                    <displayMode>hide</displayMode>
+                </BalloonStyle>
+            </Style>
+        </gx:CascadingStyle>
+        <Placemark>
+            <name>FORTALEZA / CE</name>
+            <styleUrl>#__managed_style_07E523B8E32E9FA06526</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -38.40176716112552,-3.8237594503383434 -38.40939542565832,-3.819093927642598 -38.43974399958586,-3.8049860001037814 -38.44988873537682,-3.8378740544440006 -38.47584579924421,-3.8552520941088346 -38.50202439490988,-3.8880485893708396 -38.54206637536288,-3.8597908780465104 -38.61327926262783,-3.824758119591479 -38.636572580460154,-3.8005925744876663 -38.61096799957346,-3.755817999900728 -38.60609270191662,-3.7270189821402937 -38.621487131226104,-3.7026171455647727 -38.58758316043446,-3.6964060201216853 -38.53637604012209,-3.7174400098485307 -38.481824160356666,-3.7219089596307526 -38.45600387977521,-3.73018598969162 -38.40176716112552,-3.8237594503383434
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+  <name>DUDAS BURGUER IND E COM DE PANIF LTDA</name>
+
+    <Style id="poly-68df60ff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>68df60ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>68df60ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-68df60ff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>68df60ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>68df60ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-68df60ff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-68df60ff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-68df60ff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>FORTALEZA / CE</name>
+      <description>DUDAS BURGUER IND E COM DE PANIF LTDA, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-68df60ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -38.40176716112552,-3.8237594503383434 -38.40939542565832,-3.819093927642598 -38.43974399958586,-3.8049860001037814 -38.44988873537682,-3.8378740544440006 -38.47584579924421,-3.8552520941088346 -38.50202439490988,-3.8880485893708396 -38.54206637536288,-3.8597908780465104 -38.61327926262783,-3.824758119591479 -38.636572580460154,-3.8005925744876663 -38.61096799957346,-3.755817999900728 -38.60609270191662,-3.7270189821402937 -38.621487131226104,-3.7026171455647727 -38.58758316043446,-3.6964060201216853 -38.53637604012209,-3.7174400098485307 -38.481824160356666,-3.7219089596307526 -38.45600387977521,-3.73018598969162 -38.40176716112552,-3.8237594503383434
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+  </Document>
+</kml>

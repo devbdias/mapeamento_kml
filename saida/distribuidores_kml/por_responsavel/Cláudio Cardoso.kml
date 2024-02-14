@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+  <name>Cláudio Cardoso</name>
+
+    <Style id="poly-d12032ff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>d12032ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>d12032ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-d12032ff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>d12032ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>d12032ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-d12032ff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-d12032ff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-d12032ff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>CAETÉS / PE</name>
+      <description>BISCOITOS E BOLACHAS SKIN LTDA - ME, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-d12032ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -36.540075200310184,-8.783849334679019 -36.581831343441706,-8.825746153362218 -36.54325506456951,-8.881198892115151 -36.605262586698984,-8.891614082823594 -36.61229569159286,-8.906292657180359 -36.67156408561402,-8.854752495431285 -36.66743717588491,-8.832522147479096 -36.81841307310481,-8.836978203681099 -36.820319309388594,-8.802294750002659 -36.782111079862375,-8.732924557422336 -36.702222323101694,-8.723862039701316 -36.628280843286234,-8.756096437100837 -36.540075200310184,-8.783849334679019
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Style id="poly-5be0d1ff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>5be0d1ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5be0d1ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-5be0d1ff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>5be0d1ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5be0d1ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-5be0d1ff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-5be0d1ff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-5be0d1ff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>CARUARU / PE</name>
+      <description>JULIA CORDEIRO FLORENCIO - COMERCIO, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-5be0d1ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -35.95818080080329,-7.99006382338672 -35.915647221641905,-8.00468967408915 -35.98511910326397,-8.144097602622196 -35.976220593105836,-8.166746927628537 -35.92254012402748,-8.203274648905904 -35.87994352577306,-8.206291270026043 -35.851556866056455,-8.27231232975015 -35.85351613895858,-8.303457140934256 -35.8902175094305,-8.351097085062406 -35.921015861292915,-8.365903695898794 -36.008918222298064,-8.36175719983487 -36.06317160178793,-8.383740961775914 -36.074571088784694,-8.24168495519649 -36.12266897219524,-8.187331342667278 -36.138063734253876,-8.190153097787174 -36.17835055333535,-8.144249305660878 -36.16708118924544,-8.119005284566185 -36.180679907151955,-8.071109244096306 -36.15427950899209,-8.032264609324216 -36.1118092546933,-7.996713514017415 -36.09764471033509,-8.004668920434256 -36.08212224994185,-8.022217146004436 -36.01180199376694,-7.987564137974516 -35.95818080080329,-7.99006382338672
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Style id="poly-5e8d60ff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>5e8d60ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e8d60ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-5e8d60ff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>5e8d60ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e8d60ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-5e8d60ff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-5e8d60ff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-5e8d60ff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>CAUCAIA / CE</name>
+      <description>PREMIUM PANIFICADORA INDUSTRIA E COMERCIO LTDA, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-5e8d60ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -38.58758316043446,-3.6964060201216853 -38.621487131226104,-3.7026171455647727 -38.60609270191662,-3.7270189821402937 -38.61096799957346,-3.755817999900728 -38.636572580460154,-3.8005925744876663 -38.643717141033164,-3.8353198908002923 -38.68496756030464,-3.846359595019237 -38.68950087276704,-3.8575091820031275 -38.716670559998306,-3.881258621588074 -38.74347179948393,-3.9352371817504945 -38.755283781221465,-3.9286043668979573 -38.78486116670945,-3.9650586783153017 -38.811391132894414,-3.961213833751401 -38.849287038665864,-3.9923861641900658 -38.8726340882925,-3.969206894782303 -38.94332574918394,-3.9452863393930215 -38.9981324554484,-3.8488539060828657 -38.97747156925749,-3.8144084948560817 -38.98132238891708,-3.783832665844784 -38.957720286162214,-3.7691486856632537 -38.961258496982,-3.7115425463513816 -38.91996305764894,-3.666489884300688 -38.882848428012494,-3.686294875807846 -38.83208929238691,-3.570788895690953 -38.80599832486274,-3.5479356629004997 -38.76286305788375,-3.6059143508665557 -38.695899999685196,-3.642454999898291 -38.675196544984544,-3.6657735527072646 -38.63916404168714,-3.6871289421468987 -38.58758316043446,-3.6964060201216853
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Style id="poly-343b57ff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>343b57ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>343b57ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-343b57ff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>343b57ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>343b57ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-343b57ff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-343b57ff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-343b57ff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>FARIAS BRITO / CE</name>
+      <description>DUDAS BURGUER IND E COM DE PANIF LTDA, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-343b57ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -39.51235559773261,-6.778028986648394 -39.51401369397678,-6.809769861290022 -39.493913261687624,-6.846865219354356 -39.48325122236599,-6.897848880621325 -39.418561651199184,-6.895383525029615 -39.39517458533879,-6.923452208752394 -39.42277734110138,-6.963493619035262 -39.436071404671566,-6.963999245768548 -39.45382168991904,-7.008181616788136 -39.50298747419254,-7.011547834065254 -39.51697326660292,-7.003338450109311 -39.57800663319949,-7.019360179028979 -39.580398205712584,-7.043967892004559 -39.64422659328261,-7.015159428664674 -39.68086797807467,-7.017783111701192 -39.65988625514649,-7.007111966743821 -39.62114620343448,-6.959871399845156 -39.64016286992046,-6.94636462322876 -39.599476048580755,-6.9114249410081925 -39.61217599482626,-6.892753787757044 -39.65526836504296,-6.895052322706476 -39.66841021386023,-6.863355335879987 -39.64197080760664,-6.853332867417862 -39.654733569698465,-6.8207442027826914 -39.65169270105724,-6.8024808012479525 -39.616845941287124,-6.790367728288004 -39.60042930476857,-6.822980156608878 -39.57893275504256,-6.832388647118307 -39.56756300772656,-6.788907966729255 -39.544613387397874,-6.769250675378316 -39.51235559773261,-6.778028986648394
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>FORTALEZA / CE</name>
+      <description>DUDAS BURGUER IND E COM DE PANIF LTDA, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-343b57ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -38.40176716112552,-3.8237594503383434 -38.40939542565832,-3.819093927642598 -38.43974399958586,-3.8049860001037814 -38.44988873537682,-3.8378740544440006 -38.47584579924421,-3.8552520941088346 -38.50202439490988,-3.8880485893708396 -38.54206637536288,-3.8597908780465104 -38.61327926262783,-3.824758119591479 -38.636572580460154,-3.8005925744876663 -38.61096799957346,-3.755817999900728 -38.60609270191662,-3.7270189821402937 -38.621487131226104,-3.7026171455647727 -38.58758316043446,-3.6964060201216853 -38.53637604012209,-3.7174400098485307 -38.481824160356666,-3.7219089596307526 -38.45600387977521,-3.73018598969162 -38.40176716112552,-3.8237594503383434
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Style id="poly-6520a8ff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>6520a8ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>6520a8ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-6520a8ff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>6520a8ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>6520a8ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-6520a8ff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-6520a8ff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-6520a8ff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>GARANHUNS / PE</name>
+      <description>MAGNA MIRIAN GOMES CHAVES SANTOS ME, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-6520a8ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -36.487024713519645,-8.7956842140552 -36.44445200305745,-8.80090063085936 -36.462502816551705,-8.845012468050925 -36.44845556717064,-8.882037063859343 -36.416259130154685,-8.906689749232498 -36.4002052792502,-8.956310085042333 -36.37764302030911,-8.989222213334415 -36.36648821995533,-9.01858010308922 -36.409504981469695,-9.038598715957903 -36.465205433084236,-9.078082028562733 -36.478323611745225,-9.085963569163312 -36.48036253040641,-8.970363670147208 -36.50985218163282,-8.954436060675619 -36.55566672144198,-8.965745806124005 -36.59081107227314,-8.99551012379311 -36.60050011708671,-9.033376905919454 -36.63708768464886,-9.02082810783088 -36.63086050630727,-8.956497527139106 -36.606889837995595,-8.941814117127763 -36.61229569159286,-8.906292657180359 -36.605262586698984,-8.891614082823594 -36.54325506456951,-8.881198892115151 -36.581831343441706,-8.825746153362218 -36.540075200310184,-8.783849334679019 -36.487024713519645,-8.7956842140552
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Style id="poly-fb46deff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>fb46deff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>fb46deff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-fb46deff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>fb46deff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>fb46deff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-fb46deff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-fb46deff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-fb46deff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>JABOATÃO DOS GUARARAPES / PE</name>
+      <description>KLEBER DE S DOS SANTOS, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-fb46deff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -34.908867821992374,-8.155123269323383 -34.92725912780645,-8.224392030068088 -34.976981269569876,-8.231094481225284 -35.00704978921635,-8.20603937891417 -35.064495688225406,-8.222790467905725 -35.06590001647254,-8.200735087554222 -35.09709695595973,-8.16164613755916 -35.058163101246066,-8.087970627742209 -35.05514591984826,-8.067288740582853 -35.01669502895237,-8.055808150925373 -34.97390106997835,-8.078296280548841 -34.952993473669835,-8.138614363262207 -34.908867821992374,-8.155123269323383
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Style id="poly-59f9b4ff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>59f9b4ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>59f9b4ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-59f9b4ff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>59f9b4ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>59f9b4ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-59f9b4ff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-59f9b4ff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-59f9b4ff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>JOÃO PESSOA / PB</name>
+      <description>KARNE KEIJO - LOGISTICA INTEGRADA LTDA, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-59f9b4ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -34.842363433325716,-7.055972564282342 -34.83022410465867,-7.072971296887772 -34.83341099082452,-7.094092894971084 -34.82186529204955,-7.110521226273534 -34.82105695711283,-7.130939177700839 -34.7928849745619,-7.155009606907811 -34.79479517235927,-7.195762836885365 -34.80409534312554,-7.216624358227477 -34.805570326609256,-7.240098167296537 -34.82367979118936,-7.23008648710163 -34.83742835413517,-7.233807272887304 -34.872510348673586,-7.2250467906767994 -34.88782339383454,-7.215390962322999 -34.91182460582087,-7.213211627114845 -34.92984770041102,-7.225916541215383 -34.93543414417036,-7.213974085835332 -34.96821865956343,-7.215943497694241 -34.97384154385213,-7.175664498217998 -34.96134949388397,-7.166704912401713 -34.93669413932304,-7.166439123166981 -34.92330020963692,-7.1717517026788755 -34.90989229819098,-7.150840665564203 -34.91909723434986,-7.134950036215173 -34.89413050212096,-7.121798059233015 -34.889616704946945,-7.092318162952836 -34.86414573183998,-7.059290736178468 -34.8550449794422,-7.095209781905851 -34.84681217264358,-7.093319511286381 -34.84924997120913,-7.063201085561616 -34.842363433325716,-7.055972564282342
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Style id="poly-9cd7b9ff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>9cd7b9ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>9cd7b9ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-9cd7b9ff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>9cd7b9ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>9cd7b9ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-9cd7b9ff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-9cd7b9ff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-9cd7b9ff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>NATAL / RN</name>
+      <description>JENNY FRANK DOS SANTOS, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-9cd7b9ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -35.20424604441939,-5.743007050834706 -35.1944224799135,-5.755290488665082 -35.1922969124725,-5.7811270883444195 -35.183052006844605,-5.801715475688582 -35.1790664318703,-5.868232044772981 -35.170224612276,-5.882450705835367 -35.15465042647594,-5.8838494070244565 -35.15511908477788,-5.8979242224248765 -35.17619527069513,-5.899817655060701 -35.2179353924044,-5.868573712506759 -35.2239987880136,-5.878102377622554 -35.242863248739866,-5.864911001341568 -35.25403499861625,-5.865809335032736 -35.28241413190659,-5.849817166828757 -35.28196982274909,-5.829472521839364 -35.279664329745,-5.818915569198111 -35.26123834517347,-5.810028744830674 -35.25228219206946,-5.798196681231786 -35.25152060838934,-5.776595098784753 -35.28657428147784,-5.763499900499937 -35.29134179179022,-5.732497630061516 -35.27650025758078,-5.721654315294359 -35.265535726792336,-5.704048909929213 -35.23755465772126,-5.714391258249918 -35.22606510542022,-5.727250394390126 -35.20424604441939,-5.743007050834706
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Style id="poly-c99543ff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>c99543ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>c99543ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-c99543ff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>c99543ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>c99543ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-c99543ff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-c99543ff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-c99543ff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>PARAGOMINAS / PA</name>
+      <description>J. A. GASQUEZ - EPP, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-c99543ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.436503547300845,-2.4706442635218764 -46.418244412149875,-2.5245680136029023 -46.494327787497355,-2.53650554609402 -46.505005407573435,-2.6149157130896583 -46.62192106870231,-2.6445230145254754 -46.668084662377225,-2.734023878199366 -46.63664241751354,-2.7936796686817047 -46.58297799773635,-2.8275489867962733 -46.645804256361316,-2.8838684669561303 -46.65208542909926,-2.996517030236703 -46.67566898243757,-3.0924741376712745 -46.72442209300516,-3.110971079651563 -46.72699375745589,-3.1615553672863257 -46.7702813605963,-3.1994223112905615 -46.813375428733025,-3.3095415735846814 -46.88547130095975,-3.335619978479201 -46.95645253905337,-3.4259073505437527 -46.97730299783507,-3.5303844308967314 -47.03825258089188,-3.56429824656675 -47.09389774848228,-3.621858598695326 -47.14694973534199,-3.619460260582514 -47.22356703189297,-3.522392336636983 -47.20794769742827,-3.4488503977276537 -47.35264560461093,-3.4729411678006272 -47.493597122309325,-3.544350603697353 -47.65993162344563,-3.5839199499457095 -47.73679030702698,-3.699243654570978 -47.825210627168644,-3.6833263270482917 -47.88240927736621,-3.7317589120440857 -47.95868433511396,-3.73427174914184 -48.032373408505975,-3.822229973334572 -48.10476626205332,-3.7888266101599015 -48.159876164853074,-3.804549400834162 -48.2688462608462,-3.795129790207625 -48.38874269072255,-3.8373080337387364 -48.45124053762066,-3.805930202816569 -48.5761313848555,-3.8112344635995896 -48.671854071408234,-3.7492369365353397 -48.81610688162726,-3.7126704832561472 -48.89021291849133,-3.636632806059083 -48.88389412351495,-3.567954499700363 -48.760932072956734,-3.3952265023011705 -48.65329763387865,-3.354845055654721 -48.6256235807636,-3.3077935433373113 -48.5587704961614,-3.302852283106347 -48.5028467132052,-3.259702383258343 -48.40867985649015,-3.2798917351154273 -48.352820271638166,-3.2303147924936297 -48.30467622602697,-3.2505458755916266 -48.259157110812,-3.2092985814643384 -48.157908188312206,-3.223949864094891 -48.112179634482516,-3.2089036981470827 -48.0556834150575,-3.105291231405147 -48.00132103953433,-3.1126672001311135 -47.91562162543761,-3.0662932910025233 -47.91996691933781,-3.0357928665475242 -47.798752532103606,-2.9789104575515353 -47.78609468312311,-2.912549344376714 -47.84131877104443,-2.8585770021268786 -47.85456472897903,-2.7722378283130524 -47.90715963990539,-2.7376254948206906 -47.899458908901465,-2.670093676581871 -47.77995471204031,-2.582406066486726 -47.71362551940217,-2.566443191000417 -47.67536144377556,-2.6725524644246548 -47.68514607393212,-2.733686151294819 -47.62856683449178,-2.799208162826403 -47.49873083925678,-2.874384088954514 -47.3919653089518,-2.889745336877752 -47.05727998348442,-2.618838624203079 -47.027167735202795,-2.497108710498537 -46.909252631403774,-2.422273751532373 -46.73105747722076,-2.4166206032581954 -46.57111394255435,-2.496053336292391 -46.48466362512613,-2.5013120284273214 -46.436503547300845,-2.4706442635218764
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Style id="poly-4e5a50ff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>4e5a50ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4e5a50ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-4e5a50ff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>4e5a50ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4e5a50ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-4e5a50ff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-4e5a50ff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-4e5a50ff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>PARNAMIRIM / RN</name>
+      <description>JG ESPACO DO CHEF LTDA, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-4e5a50ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -35.15511908477788,-5.8979242224248765 -35.15748625508655,-5.92345948716553 -35.15186261806531,-5.952769127393253 -35.14511396243938,-5.96437365172261 -35.1296494048961,-5.967422291405569 -35.12171678010526,-5.982945673603922 -35.12978663514508,-5.982120444003215 -35.160453793907436,-5.954492745543746 -35.1827161721136,-5.937779568372321 -35.21204361082391,-5.934751755189325 -35.2462399862863,-5.954164365293195 -35.25064057859976,-5.9620974703219645 -35.27883550825209,-5.957721871067463 -35.296085080661896,-5.958238532482255 -35.28241413190659,-5.849817166828757 -35.25403499861625,-5.865809335032736 -35.242863248739866,-5.864911001341568 -35.2239987880136,-5.878102377622554 -35.2179353924044,-5.868573712506759 -35.17619527069513,-5.899817655060701 -35.15511908477788,-5.8979242224248765
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Style id="poly-932bb7ff-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>932bb7ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>932bb7ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-932bb7ff-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>932bb7ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>932bb7ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-932bb7ff-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-932bb7ff-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-932bb7ff-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>RECIFE / PE</name>
+      <description>ATACADAO JLJ DISTRIBUIDORA DE ALIMENTOS LTDA, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-932bb7ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -34.91387104371364,-7.97936230922312 -34.87289599685272,-8.017307437588101 -34.8605759997825,-8.044467000251814 -34.908867821992374,-8.155123269323383 -34.952993473669835,-8.138614363262207 -34.97390106997835,-8.078296280548841 -35.01669502895237,-8.055808150925373 -34.9961383220259,-8.036853793068076 -34.96554426105877,-8.019809477425383 -34.96207428539992,-7.974092404340922 -35.00371875071971,-7.9595517500131905 -35.00011444242756,-7.929199476274789 -34.967758203078574,-7.941791414841873 -34.94841182714407,-7.92953750894884 -34.90924855357787,-7.944014573114032 -34.91387104371364,-7.97936230922312
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>VARJOTA / CE</name>
+      <description>DUDAS BURGUER IND E COM DE PANIF LTDA, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-343b57ff-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -40.450084411266516,-4.207964735584028 -40.49141817610791,-4.24586311808838 -40.52727184382047,-4.254113780026898 -40.55755092443559,-4.209096323736333 -40.58935765732997,-4.200997866658156 -40.60927155943489,-4.2076990084024715 -40.53895953115739,-4.169388755286775 -40.518222059600305,-4.166833516953204 -40.51465567661813,-4.134726351140159 -40.53656243231035,-4.0981912734084744 -40.47269490534558,-4.086504999805868 -40.43171694468123,-4.0916922875689465 -40.43010777065706,-4.1446508933240125 -40.4457167422338,-4.162780453255266 -40.450084411266516,-4.207964735584028
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+  </Document>
+</kml>

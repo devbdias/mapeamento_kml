@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+  <name>COMERCIAL BERNARDI E BERNARDI LTDA</name>
+
+    <Style id="poly-852eabFF-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>852eabFF</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>852eabFF</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-852eabFF-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>852eabFF</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>852eabFF</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-852eabFF-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-852eabFF-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-852eabFF-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>AIURUOCA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.69162700018586,-21.74332799678956 -44.64580000026973,-21.774086997017264 -44.58170799982429,-21.836371996870128 -44.60036400039826,-21.86837399686243 -44.55779999987004,-21.904350996701112 -44.55653499999022,-21.969238996082765 -44.58183400023887,-22.029483996289343 -44.527858000446315,-22.082824996476347 -44.540827999612475,-22.128640996784554 -44.559875000231045,-22.159817996503307 -44.67953700023236,-22.135074996713684 -44.673656999770685,-22.087623996550178 -44.75531900017165,-21.93547199653534 -44.75430400012948,-21.85708399692885 -44.72424499980684,-21.764501996569834 -44.69162700018586,-21.74332799678956
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ALAGOA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.559875000231045,-22.159817996503307 -44.60659800009756,-22.22553399629686 -44.76103100008055,-22.221722996818812 -44.766547999990166,-22.201406997035235 -44.67953700023236,-22.135074996713684 -44.559875000231045,-22.159817996503307
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ALBERTINA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.53304299993448,-22.18549299700419 -46.57526199984136,-22.22009299629468 -46.68030525198577,-22.216515106486952 -46.64558594593461,-22.18064652981343 -46.53304299993448,-22.18549299700419
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ARANTINA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.17444300014432,-21.827614996834598 -44.1967890000123,-21.890933996706565 -44.25658200005921,-21.975441997050496 -44.28572400036228,-21.928624996446388 -44.23158000001695,-21.892923996745026 -44.22809899956911,-21.844346996816398 -44.17444300014432,-21.827614996834598
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BOM REPOUSO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.09721100038729,-22.39521199693604 -46.11568899994734,-22.49412299687873 -46.14780399975473,-22.518474996623752 -46.18912999984957,-22.50184399680296 -46.28269499967445,-22.51520899709749 -46.26076400005849,-22.41948699672747 -46.24429100032938,-22.363586996342747 -46.09721100038729,-22.39521199693604
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BOM SUCESSO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.621312999695135,-21.095833996741533 -44.71076000027375,-21.136915996376104 -44.76543599997137,-21.113199997182107 -44.871716999839634,-21.134925997236962 -44.87788500009265,-21.15547799711186 -44.9094400640077,-21.171524978095192 -44.949684999862825,-21.108993996575634 -44.93706799988826,-21.075000996498773 -44.97599299987701,-21.027906996610568 -44.935149999572786,-20.98941799694296 -44.886061000314896,-21.00534199653589 -44.86517300023371,-20.954764997006976 -44.81657800037436,-20.958515996416054 -44.805021999865346,-20.897591997272798 -44.73387899981594,-20.89139299648957 -44.70914000021082,-20.848882996652947 -44.65944299989451,-20.89855099653124 -44.64883700002747,-20.992491996608294 -44.621312999695135,-21.095833996741533
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BORDA DA MATA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.19922200029504,-22.137667996680648 -46.151808000039125,-22.214624996846055 -46.11714399959584,-22.20871299670739 -46.04441800029042,-22.23122499703595 -46.06385900019268,-22.27810799708635 -46.03845300040558,-22.36059999709215 -46.054763999858665,-22.37263099702284 -46.17258100021297,-22.308009996464136 -46.22068399986665,-22.306410996470277 -46.2353429995797,-22.267330996528244 -46.262770999981626,-22.224033996371816 -46.25203100023043,-22.145423996420277 -46.19922200029504,-22.137667996680648
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>nan</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              nan
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BUENO BRANDÃO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.33428500005266,-22.387623996849925 -46.26076400005849,-22.41948699672747 -46.28269499967445,-22.51520899709749 -46.29616500031449,-22.578712996507534 -46.36564400007052,-22.601974996348986 -46.42433637562317,-22.599444274433665 -46.41464269300582,-22.557927715191852 -46.456457741731356,-22.521685773279785 -46.42316299957275,-22.399332996320652 -46.33428500005266,-22.387623996849925
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CACHOEIRA DE MINAS / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.660117000199364,-22.2777029963961 -45.67164400027036,-22.337392997089125 -45.679180999803236,-22.374705996484522 -45.72218900012223,-22.407938996587404 -45.83143700011743,-22.403331996374504 -45.84873700021234,-22.45388599664136 -45.885889000277075,-22.4672069967055 -45.92365599992439,-22.472344996224535 -45.91937200021761,-22.408189996471094 -45.85129699955684,-22.35357799702689 -45.8417710000316,-22.28412499667121 -45.72052599987495,-22.30040499649334 -45.660117000199364,-22.2777029963961
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CAMANDUCAIA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.05391400023086,-22.687372996366662 -45.959022000364996,-22.69075799688403 -45.94911999968821,-22.694348997008547 -45.92132400030232,-22.720485996331604 -45.96489200036547,-22.746906997060194 -45.956528999613624,-22.84984099996211 -46.00852399978271,-22.889498000432354 -46.095218324865755,-22.894429010190606 -46.192197885024314,-22.865230571133907 -46.22898599960416,-22.8065909965772 -46.1244249999138,-22.669823996480204 -46.05391400023086,-22.687372996366662
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CAMBUÍ / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.95617899966106,-22.535297996305417 -45.94835699957582,-22.552141996955527 -46.03250799964445,-22.59783299689525 -46.05391400023086,-22.687372996366662 -46.1244249999138,-22.669823996480204 -46.15289299971215,-22.6076829969727 -46.14780399975473,-22.518474996623752 -46.11568899994734,-22.49412299687873 -46.06189499955457,-22.51739999651261 -45.95617899966106,-22.535297996305417
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CAMBUQUIRA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.141702000047246,-21.867676996196394 -45.215667999878235,-21.90974699642669 -45.2704219995756,-21.948676996646043 -45.27172100012399,-21.908523996685062 -45.35440499999072,-21.94437199687013 -45.363655000278015,-21.845238996582395 -45.328176000022324,-21.796612997092097 -45.29684300030419,-21.818785997076077 -45.20847299992897,-21.775371996920057 -45.141702000047246,-21.867676996196394
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CAMPANHA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.328176000022324,-21.796612997092097 -45.363655000278015,-21.845238996582395 -45.35440499999072,-21.94437199687013 -45.436238000183494,-21.977360996512743 -45.4879030004231,-21.903856996403192 -45.49328699959534,-21.813061996613783 -45.392782999935434,-21.74470799657672 -45.403664999939735,-21.682633996561663 -45.33992599958515,-21.71508099639084 -45.328176000022324,-21.796612997092097
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CAMPO BELO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.07052999955977,-20.83934599662041 -45.14235100029839,-20.926728996446002 -45.1711659999109,-20.988455996646906 -45.244725999904915,-21.010723996515196 -45.28211700019938,-21.046128996955588 -45.34210700033776,-21.068658997214925 -45.34246699985209,-21.068768996891663 -45.363886000138734,-20.912474996523827 -45.4312040000645,-20.891218996559417 -45.389751000408296,-20.847605997119047 -45.313868000307934,-20.821235996943642 -45.27124899994135,-20.84615299666342 -45.11796099970036,-20.820570996853974 -45.07052999955977,-20.83934599662041
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CARMO DA CACHOEIRA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.08505500028798,-21.398909996798864 -45.06093699964276,-21.40867999678437 -45.04216500001468,-21.45487899676823 -45.06364699960932,-21.50023399650172 -45.11243700036721,-21.54244099675458 -45.179112000318526,-21.537619996565525 -45.25457499993627,-21.554052996248743 -45.36476400015846,-21.481176996321267 -45.33407200032252,-21.420227996924496 -45.27264699965929,-21.376736996814884 -45.14482200003522,-21.34849899683121 -45.08505500028798,-21.398909996798864
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CARMO DE MINAS / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.12654900003628,-21.981988996794712 -45.07449105631713,-22.096542025593976 -45.06038356045292,-22.143870769220598 -45.06493200041143,-22.174984996260548 -45.13720699960328,-22.176665996438544 -45.16437999993701,-22.200621996807683 -45.23446999999044,-22.148697996315434 -45.25060100013599,-22.113826997118167 -45.236662000350975,-22.04048299629318 -45.20044999956781,-21.985427996205033 -45.12654900003628,-21.981988996794712
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CARRANCAS / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.481792000300516,-21.408212996832276 -44.45634400037528,-21.518273996547634 -44.49662099975927,-21.576523996485207 -44.64562300020128,-21.62094999654505 -44.676213999876154,-21.64029399647069 -44.79163100017047,-21.59649699663902 -44.741376000202195,-21.510556996807907 -44.76326499967996,-21.477808996587896 -44.76508600001887,-21.443206997205095 -44.63844400009049,-21.44931099720469 -44.64857200039745,-21.405590996427293 -44.602363999998545,-21.346553997069236 -44.57482900005829,-21.309250997235665 -44.511301999587545,-21.35413599687871 -44.481792000300516,-21.408212996832276
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CONCEIÇÃO DAS PEDRAS / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.336484000036535,-22.103081997136428 -45.33399799960796,-22.119034996268 -45.393801000116014,-22.167982997117576 -45.507840999862196,-22.191649996749902 -45.44528099991817,-22.119741996495918 -45.370885000042676,-22.082247996847514 -45.336484000036535,-22.103081997136428
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CONCEIÇÃO DO RIO VERDE / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.043209998742384,-21.77783599633409 -45.025686000008875,-21.820549996585044 -44.97628799999114,-21.85163899674228 -44.997905000415415,-21.904183996194433 -44.99657900042047,-21.94876199606921 -45.07474200044294,-22.009564996827123 -45.12654900003628,-21.981988996794712 -45.20044999956781,-21.985427996205033 -45.215667999878235,-21.90974699642669 -45.141702000047246,-21.867676996196394 -45.11657999986704,-21.851847996487777 -45.117064999749914,-21.783671996565317 -45.043209998742384,-21.77783599633409
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CONCEIÇÃO DOS OUROS / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.679180999803236,-22.374705996484522 -45.681714999747385,-22.461894996356932 -45.70008699981514,-22.499415996351104 -45.77858800013604,-22.469721996672774 -45.826472999629175,-22.509068996337078 -45.88330299973359,-22.500346997016266 -45.885889000277075,-22.4672069967055 -45.84873700021234,-22.45388599664136 -45.83143700011743,-22.403331996374504 -45.72218900012223,-22.407938996587404 -45.679180999803236,-22.374705996484522
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CONSOLAÇÃO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.88330299973359,-22.500346997016266 -45.87080399980471,-22.5236899969957 -45.9043210004138,-22.601645996465493 -45.951539999771114,-22.587629996726946 -45.94835699957582,-22.552141996955527 -45.95617899966106,-22.535297996305417 -45.92365599992439,-22.472344996224535 -45.885889000277075,-22.4672069967055 -45.88330299973359,-22.500346997016266
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CRISTINA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.16437999993701,-22.200621996807683 -45.2434539997023,-22.28201999672541 -45.32520799984928,-22.299765996703343 -45.374397000121405,-22.26961899681919 -45.366533999944124,-22.222434996377956 -45.393801000116014,-22.167982997117576 -45.33399799960796,-22.119034996268 -45.25060100013599,-22.113826997118167 -45.23446999999044,-22.148697996315434 -45.16437999993701,-22.200621996807683
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>DOM VIÇOSO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.0736139996863,-22.23686599636858 -45.174080000291724,-22.288238996632344 -45.2434539997023,-22.28201999672541 -45.16437999993701,-22.200621996807683 -45.13720699960328,-22.176665996438544 -45.06493200041143,-22.174984996260548 -45.0736139996863,-22.23686599636858
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ESTIVA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.91937200021761,-22.408189996471094 -45.92365599992439,-22.472344996224535 -45.95617899966106,-22.535297996305417 -46.06189499955457,-22.51739999651261 -46.11568899994734,-22.49412299687873 -46.09721100038729,-22.39521199693604 -46.054763999858665,-22.37263099702284 -46.03845300040558,-22.36059999709215 -46.00730999955681,-22.406221996547856 -45.91937200021761,-22.408189996471094
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>EXTREMA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.22898599960416,-22.8065909965772 -46.192197885024314,-22.865230571133907 -46.25741075819991,-22.89087490205503 -46.376289403732926,-22.877079075239067 -46.37681108066681,-22.82781946289782 -46.33256610783957,-22.766115804600645 -46.29970800002411,-22.72166599678826 -46.24906700024184,-22.75177299662647 -46.22898599960416,-22.8065909965772
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>HELIODORA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.47693199991181,-21.989836996280303 -45.4585979997978,-22.081927996479806 -45.59764599986295,-22.102956996767944 -45.618565999621126,-22.01884699679141 -45.47693199991181,-21.989836996280303
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>IBITURUNA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.71076000027375,-21.136915996376104 -44.73288699993503,-21.211621997057478 -44.759599999740146,-21.234802996760834 -44.80957300019378,-21.221147996582715 -44.86339500007915,-21.166666995985054 -44.87788500009265,-21.15547799711186 -44.871716999839634,-21.134925997236962 -44.76543599997137,-21.113199997182107 -44.71076000027375,-21.136915996376104
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>IJACI / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.949684999862825,-21.108993996575634 -44.9094400640077,-21.171524978095192 -44.87788500009265,-21.15547799711186 -44.86339500007915,-21.166666995985054 -44.8692759996876,-21.21219099631736 -44.945744999831845,-21.239179997159113 -44.993022000065196,-21.13431699703176 -44.949684999862825,-21.108993996575634
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>INCONFIDENTES / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.22068399986665,-22.306410996470277 -46.24429100032938,-22.363586996342747 -46.26076400005849,-22.41948699672747 -46.33428500005266,-22.387623996849925 -46.338924999988706,-22.307969996418137 -46.2353429995797,-22.267330996528244 -46.22068399986665,-22.306410996470277
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>INGAÍ / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.9042069998531,-21.34282499687606 -44.81790999974663,-21.393288996589888 -44.81334399962583,-21.469063997105764 -44.82064299987451,-21.52165399683446 -44.888658999613085,-21.468970996414328 -44.98687499988131,-21.46272999639217 -45.06093699964276,-21.40867999678437 -45.08505500028798,-21.398909996798864 -45.00203400016892,-21.333620996911407 -44.9042069998531,-21.34282499687606
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ITAJUBÁ / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.26102890456025,-22.37640563960855 -45.334668999974326,-22.40495599662188 -45.35925499971842,-22.467211996936044 -45.43014699988407,-22.539725996357618 -45.42956099984025,-22.514286996847375 -45.52379800007759,-22.45998599645651 -45.51179300044657,-22.372622996653945 -45.445762999662634,-22.35456699676945 -45.42343899990988,-22.378541997115406 -45.34052400018243,-22.33928499710487 -45.26102890456025,-22.37640563960855
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ITAMONTE / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.766547999990166,-22.201406997035235 -44.76103100008055,-22.221722996818812 -44.60659800009756,-22.22553399629686 -44.61338300002541,-22.28728599675128 -44.66610400039923,-22.320203996717055 -44.66587149327478,-22.37270484485265 -44.729638618127694,-22.360751103880318 -44.80352867380918,-22.393695696798943 -44.85812900005328,-22.36551899640449 -44.88633733230199,-22.26378049917065 -44.816865000119606,-22.19246099637786 -44.766547999990166,-22.201406997035235
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ITAPEVA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.1244249999138,-22.669823996480204 -46.22898599960416,-22.8065909965772 -46.24906700024184,-22.75177299662647 -46.29970800002411,-22.72166599678826 -46.30822099959943,-22.691965996833233 -46.28741399965634,-22.692275996739795 -46.15845499989831,-22.615593996665552 -46.15289299971215,-22.6076829969727 -46.1244249999138,-22.669823996480204
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ITUMIRIM / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.759599999740146,-21.234802996760834 -44.771314000340794,-21.36163099627339 -44.81790999974663,-21.393288996589888 -44.9042069998531,-21.34282499687606 -44.88205499993825,-21.311815996810765 -44.8692759996876,-21.21219099631736 -44.86339500007915,-21.166666995985054 -44.80957300019378,-21.221147996582715 -44.759599999740146,-21.234802996760834
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ITUTINGA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.602363999998545,-21.346553997069236 -44.64857200039745,-21.405590996427293 -44.63844400009049,-21.44931099720469 -44.76508600001887,-21.443206997205095 -44.76326499967996,-21.477808996587896 -44.81334399962583,-21.469063997105764 -44.81790999974663,-21.393288996589888 -44.771314000340794,-21.36163099627339 -44.759599999740146,-21.234802996760834 -44.73288699993503,-21.211621997057478 -44.69042699970623,-21.217566996919345 -44.65733199967201,-21.275035996813756 -44.59866100010504,-21.307677996642212 -44.602363999998545,-21.346553997069236
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>JESUÂNIA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.20044999956781,-21.985427996205033 -45.236662000350975,-22.04048299629318 -45.336484000036535,-22.103081997136428 -45.370885000042676,-22.082247996847514 -45.364202000321995,-22.0742279966247 -45.32422000015282,-22.03430999670894 -45.3168920003655,-21.987276996935805 -45.2704219995756,-21.948676996646043 -45.215667999878235,-21.90974699642669 -45.20044999956781,-21.985427996205033
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>LAVRAS / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.993022000065196,-21.13431699703176 -44.945744999831845,-21.239179997159113 -44.8692759996876,-21.21219099631736 -44.88205499993825,-21.311815996810765 -44.9042069998531,-21.34282499687606 -45.00203400016892,-21.333620996911407 -45.08505500028798,-21.398909996798864 -45.14482200003522,-21.34849899683121 -45.15214699968425,-21.27229699640924 -45.174916000173255,-21.25028199651689 -45.1604660002057,-21.145366996689518 -45.12883700032728,-21.16869299678433 -45.05156600007081,-21.18394099667961 -45.04469099958993,-21.1452749969435 -44.993022000065196,-21.13431699703176
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>LUMINÁRIAS / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.81334399962583,-21.469063997105764 -44.76326499967996,-21.477808996587896 -44.741376000202195,-21.510556996807907 -44.79163100017047,-21.59649699663902 -44.87811399986117,-21.627740996749537 -44.911475999617664,-21.641950996441267 -45.03686900040401,-21.631919997010186 -45.02832899958361,-21.597478996958102 -45.06364699960932,-21.50023399650172 -45.04216500001468,-21.45487899676823 -45.06093699964276,-21.40867999678437 -44.98687499988131,-21.46272999639217 -44.888658999613085,-21.468970996414328 -44.82064299987451,-21.52165399683446 -44.81334399962583,-21.469063997105764
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>MARIA DA FÉ / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.2434539997023,-22.28201999672541 -45.174080000291724,-22.288238996632344 -45.22308400012645,-22.36976899634209 -45.26102890456025,-22.37640563960855 -45.34052400018243,-22.33928499710487 -45.42343899990988,-22.378541997115406 -45.445762999662634,-22.35456699676945 -45.449621999555575,-22.32581699655708 -45.374397000121405,-22.26961899681919 -45.32520799984928,-22.299765996703343 -45.2434539997023,-22.28201999672541
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>MARMELÓPOLIS / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.16996500028449,-22.40057499693853 -45.16084999992751,-22.43188799663369 -45.09818599968412,-22.459397996320433 -45.10282604008961,-22.48990834749219 -45.166761243736346,-22.530711738955517 -45.23982499962398,-22.443630996773038 -45.16996500028449,-22.40057499693853
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>MONSENHOR PAULO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.461797999877774,-21.65800599667938 -45.41686900000428,-21.6674789964585 -45.403664999939735,-21.682633996561663 -45.392782999935434,-21.74470799657672 -45.49328699959534,-21.813061996613783 -45.55620599990692,-21.7890829969827 -45.56826900041398,-21.750458996485463 -45.528722999666684,-21.689124996421413 -45.461797999877774,-21.65800599667938
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>NATÉRCIA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.364202000321995,-22.0742279966247 -45.370885000042676,-22.082247996847514 -45.44528099991817,-22.119741996495918 -45.507840999862196,-22.191649996749902 -45.518308999660576,-22.216591996723253 -45.6158399998161,-22.160430996892956 -45.59764599986295,-22.102956996767944 -45.4585979997978,-22.081927996479806 -45.364202000321995,-22.0742279966247
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>OURO FINO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.25510099971132,-22.14594099687946 -46.25203100023043,-22.145423996420277 -46.262770999981626,-22.224033996371816 -46.2353429995797,-22.267330996528244 -46.338924999988706,-22.307969996418137 -46.33428500005266,-22.387623996849925 -46.42316299957275,-22.399332996320652 -46.44291300023474,-22.34663299691522 -46.50621400017593,-22.340889996476108 -46.52588900007726,-22.276274997093424 -46.48429400016795,-22.26119799698995 -46.48835100019846,-22.183125996667343 -46.430220000352676,-22.148446996431687 -46.38470799967439,-22.165788996664844 -46.278911999689,-22.134484996485355 -46.25510099971132,-22.14594099687946
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PARAISÓPOLIS / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.70008699981514,-22.499415996351104 -45.678717253598336,-22.573291027958533 -45.730042219272946,-22.618745629407215 -45.87890700025781,-22.61525199708194 -45.88570900007028,-22.676037997055857 -45.94911999968821,-22.694348997008547 -45.959022000364996,-22.69075799688403 -45.936253999922144,-22.65144599703507 -45.951539999771114,-22.587629996726946 -45.9043210004138,-22.601645996465493 -45.87080399980471,-22.5236899969957 -45.88330299973359,-22.500346997016266 -45.826472999629175,-22.509068996337078 -45.77858800013604,-22.469721996672774 -45.70008699981514,-22.499415996351104
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PASSA QUATRO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.809396051386614,-22.40434116970914 -44.96984841077551,-22.471944639633364 -45.05492889075566,-22.47050396348709 -45.10282604008961,-22.48990834749219 -45.09818599968412,-22.459397996320433 -45.04849100035932,-22.41496399679096 -45.056734000074016,-22.373562996834778 -45.015387999956204,-22.339800996618635 -44.915004999581015,-22.325986996302788 -44.91819500009916,-22.35972899649596 -44.809396051386614,-22.40434116970914
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PEDRALVA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.374397000121405,-22.26961899681919 -45.449621999555575,-22.32581699655708 -45.52459099977477,-22.3030449968291 -45.55056699976717,-22.26298099647579 -45.518308999660576,-22.216591996723253 -45.507840999862196,-22.191649996749902 -45.393801000116014,-22.167982997117576 -45.366533999944124,-22.222434996377956 -45.374397000121405,-22.26961899681919
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PERDÕES / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.07543500002521,-20.940348996808723 -45.05089899988889,-21.039910997094807 -44.97599299987701,-21.027906996610568 -44.93706799988826,-21.075000996498773 -44.949684999862825,-21.108993996575634 -44.993022000065196,-21.13431699703176 -45.04469099958993,-21.1452749969435 -45.102602000082186,-21.128974997098396 -45.12883700032728,-21.16869299678433 -45.1604660002057,-21.145366996689518 -45.189149000026305,-21.087817996703166 -45.15591099969282,-21.044590997076796 -45.10343399977921,-21.027377996497307 -45.09238300007536,-20.950566996769453 -45.07543500002521,-20.940348996808723
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>PIRANGUINHO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.574660000158815,-22.32222999661701 -45.51179300044657,-22.372622996653945 -45.52379800007759,-22.45998599645651 -45.55058699979014,-22.483764996757145 -45.57026199969147,-22.393351996597346 -45.67164400027036,-22.337392997089125 -45.660117000199364,-22.2777029963961 -45.574660000158815,-22.32222999661701
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>POUSO ALEGRE / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.81705499968842,-22.115563996281367 -45.85852700022082,-22.179993997025292 -45.85394800039984,-22.235606996765455 -45.8417710000316,-22.28412499667121 -45.85129699955684,-22.35357799702689 -45.91937200021761,-22.408189996471094 -46.00730999955681,-22.406221996547856 -46.03845300040558,-22.36059999709215 -46.06385900019268,-22.27810799708635 -46.04441800029042,-22.23122499703595 -45.99446900004426,-22.207546996896326 -45.95989500015412,-22.127366996489627 -45.90361100004759,-22.110473996277847 -45.81705499968842,-22.115563996281367
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>POUSO ALTO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.93979999996998,-22.076897996545256 -44.92713100029539,-22.082440996754542 -44.816865000119606,-22.19246099637786 -44.88633733230199,-22.26378049917065 -44.93521969793068,-22.254314125596352 -44.97935100004855,-22.277542997111595 -44.97108997252417,-22.218462982280755 -45.01639094458636,-22.19978128897526 -45.043680208374894,-22.149180903475894 -45.00725217155042,-22.111717337784853 -44.93979999996998,-22.076897996545256
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>RIBEIRÃO VERMELHO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.04469099958993,-21.1452749969435 -45.05156600007081,-21.18394099667961 -45.12883700032728,-21.16869299678433 -45.102602000082186,-21.128974997098396 -45.04469099958993,-21.1452749969435
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTA RITA DO SAPUCAÍ / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.6158399998161,-22.160430996892956 -45.518308999660576,-22.216591996723253 -45.55056699976717,-22.26298099647579 -45.574660000158815,-22.32222999661701 -45.660117000199364,-22.2777029963961 -45.72052599987495,-22.30040499649334 -45.8417710000316,-22.28412499667121 -45.85394800039984,-22.235606996765455 -45.6648750001811,-22.16752399663511 -45.6158399998161,-22.160430996892956
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTANA DO JACARÉ / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.07543500002521,-20.940348996808723 -45.09238300007536,-20.950566996769453 -45.14235100029839,-20.926728996446002 -45.07052999955977,-20.83934599662041 -45.05648500028252,-20.816945996960158 -45.039179999957014,-20.8092729965515 -45.00531200024858,-20.896268996516937 -45.07543500002521,-20.940348996808723
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SÃO GONÇALO DO SAPUCAÍ / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.49328699959534,-21.813061996613783 -45.4879030004231,-21.903856996403192 -45.436238000183494,-21.977360996512743 -45.47693199991181,-21.989836996280303 -45.618565999621126,-22.01884699679141 -45.643422000125156,-21.985366996989285 -45.71680500005067,-21.99411699670202 -45.730819999743176,-21.95499899680624 -45.73886500021956,-21.862002997140564 -45.704736000166235,-21.831925996887207 -45.60605500003817,-21.849340996889453 -45.60166599998587,-21.80044599668537 -45.55620599990692,-21.7890829969827 -45.49328699959534,-21.813061996613783
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SÃO JOSÉ DO ALEGRE / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.449621999555575,-22.32581699655708 -45.445762999662634,-22.35456699676945 -45.51179300044657,-22.372622996653945 -45.574660000158815,-22.32222999661701 -45.55056699976717,-22.26298099647579 -45.52459099977477,-22.3030449968291 -45.449621999555575,-22.32581699655708
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SÃO LOURENÇO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.00725217155042,-22.111717337784853 -45.043680208374894,-22.149180903475894 -45.06038356045292,-22.143870769220598 -45.07449105631713,-22.096542025593976 -45.00725217155042,-22.111717337784853
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SÃO THOMÉ DAS LETRAS / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.8848009997663,-21.836791996453428 -44.97628799999114,-21.85163899674228 -45.025686000008875,-21.820549996585044 -45.043209998742384,-21.77783599633409 -45.06721599961867,-21.739802997010656 -45.03686900040401,-21.631919997010186 -44.911475999617664,-21.641950996441267 -44.87811399986117,-21.627740996749537 -44.89305700008043,-21.685974996848586 -44.866172999584194,-21.797012996652427 -44.8848009997663,-21.836791996453428
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SENADOR AMARAL / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.14780399975473,-22.518474996623752 -46.15289299971215,-22.6076829969727 -46.15845499989831,-22.615593996665552 -46.29616500031449,-22.578712996507534 -46.28269499967445,-22.51520899709749 -46.18912999984957,-22.50184399680296 -46.14780399975473,-22.518474996623752
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SENADOR JOSÉ BENTO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.09981600000833,-22.100824996476376 -46.097203000018396,-22.171497996435335 -46.11714399959584,-22.20871299670739 -46.151808000039125,-22.214624996846055 -46.19922200029504,-22.137667996680648 -46.09981600000833,-22.100824996476376
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SERRANOS / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.58129100037934,-21.751416996597072 -44.492443999590876,-21.789760996772543 -44.45634500042138,-21.796130996448255 -44.44074900066579,-21.873016996037506 -44.501519999948016,-21.905992995979943 -44.55779999987004,-21.904350996701112 -44.60036400039826,-21.86837399686243 -44.58170799982429,-21.836371996870128 -44.64580000026973,-21.774086997017264 -44.58129100037934,-21.751416996597072
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SOLEDADE DE MINAS / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -44.93979999996998,-22.076897996545256 -45.00725217155042,-22.111717337784853 -45.07449105631713,-22.096542025593976 -45.12654900003628,-21.981988996794712 -45.07474200044294,-22.009564996827123 -44.99657900042047,-21.94876199606921 -44.97134200033298,-21.958693996330794 -44.93979999996998,-22.076897996545256
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>TOLEDO / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -46.30822099959943,-22.691965996833233 -46.29970800002411,-22.72166599678826 -46.33256610783957,-22.766115804600645 -46.452723077607914,-22.72758189638739 -46.48056527606661,-22.679865301242614 -46.39305887126983,-22.662974059205396 -46.30822099959943,-22.691965996833233
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>TRÊS CORAÇÕES / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.11243700036721,-21.54244099675458 -45.0928829997506,-21.611977996487326 -45.03686900040401,-21.631919997010186 -45.06721599961867,-21.739802997010656 -45.043209998742384,-21.77783599633409 -45.117064999749914,-21.783671996565317 -45.11657999986704,-21.851847996487777 -45.141702000047246,-21.867676996196394 -45.20847299992897,-21.775371996920057 -45.29684300030419,-21.818785997076077 -45.328176000022324,-21.796612997092097 -45.33992599958515,-21.71508099639084 -45.403664999939735,-21.682633996561663 -45.41686900000428,-21.6674789964585 -45.34682100008905,-21.63168299687277 -45.33092900017317,-21.58375899648047 -45.28479999982011,-21.60053699678491 -45.25457499993627,-21.554052996248743 -45.179112000318526,-21.537619996565525 -45.11243700036721,-21.54244099675458
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>VIRGÍNIA / MG</name>
+      <description>COMERCIAL BERNARDI E BERNARDI LTDA, Paulo Marques, None</description>
+      <styleUrl>#poly-852eabFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -45.0736139996863,-22.23686599636858 -45.014797999727875,-22.27593699679494 -45.015387999956204,-22.339800996618635 -45.056734000074016,-22.373562996834778 -45.04849100035932,-22.41496399679096 -45.09818599968412,-22.459397996320433 -45.16084999992751,-22.43188799663369 -45.16996500028449,-22.40057499693853 -45.22308400012645,-22.36976899634209 -45.174080000291724,-22.288238996632344 -45.0736139996863,-22.23686599636858
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+  </Document>
+</kml>

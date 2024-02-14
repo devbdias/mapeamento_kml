@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>DUDAS BURGUER IND E COM DE PANIF LTDA</name>
+	<StyleMap id="__managed_style_07E523B8E32E9FA06526">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B205739A02E9FA06526</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_243682C15B2E9FA06526</styleUrl>
+		</Pair>
+	</StyleMap>
+        <gx:CascadingStyle kml:id="__managed_style_7AC244F4FE39E753">
+            <Style>
+                <IconStyle>
+                    <scale>1.2</scale>
+                    <Icon>
+                        <href>https://earth.google.com/earth/rpc/cc/icon?color=f07591ff&amp;id=2000&amp;scale=4</href>
+                    </Icon>
+                    <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+                </IconStyle>
+                <LabelStyle>
+                </LabelStyle>
+                <LineStyle>
+                    <color>f07591ffff</color>
+                    <width>3.2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>40ffffff</color>
+                </PolyStyle>
+                <BalloonStyle>
+                    <displayMode>hide</displayMode>
+                </BalloonStyle>
+            </Style>
+        </gx:CascadingStyle>
+        <Placemark>
+            <name>FARIAS BRITO / CE</name>
+            <styleUrl>#__managed_style_07E523B8E32E9FA06526</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -39.51235559773261,-6.778028986648394 -39.51401369397678,-6.809769861290022 -39.493913261687624,-6.846865219354356 -39.48325122236599,-6.897848880621325 -39.418561651199184,-6.895383525029615 -39.39517458533879,-6.923452208752394 -39.42277734110138,-6.963493619035262 -39.436071404671566,-6.963999245768548 -39.45382168991904,-7.008181616788136 -39.50298747419254,-7.011547834065254 -39.51697326660292,-7.003338450109311 -39.57800663319949,-7.019360179028979 -39.580398205712584,-7.043967892004559 -39.64422659328261,-7.015159428664674 -39.68086797807467,-7.017783111701192 -39.65988625514649,-7.007111966743821 -39.62114620343448,-6.959871399845156 -39.64016286992046,-6.94636462322876 -39.599476048580755,-6.9114249410081925 -39.61217599482626,-6.892753787757044 -39.65526836504296,-6.895052322706476 -39.66841021386023,-6.863355335879987 -39.64197080760664,-6.853332867417862 -39.654733569698465,-6.8207442027826914 -39.65169270105724,-6.8024808012479525 -39.616845941287124,-6.790367728288004 -39.60042930476857,-6.822980156608878 -39.57893275504256,-6.832388647118307 -39.56756300772656,-6.788907966729255 -39.544613387397874,-6.769250675378316 -39.51235559773261,-6.778028986648394
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>VARJOTA / CE</name>
+            <styleUrl>#__managed_style_07E523B8E32E9FA06526</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -40.450084411266516,-4.207964735584028 -40.49141817610791,-4.24586311808838 -40.52727184382047,-4.254113780026898 -40.55755092443559,-4.209096323736333 -40.58935765732997,-4.200997866658156 -40.60927155943489,-4.2076990084024715 -40.53895953115739,-4.169388755286775 -40.518222059600305,-4.166833516953204 -40.51465567661813,-4.134726351140159 -40.53656243231035,-4.0981912734084744 -40.47269490534558,-4.086504999805868 -40.43171694468123,-4.0916922875689465 -40.43010777065706,-4.1446508933240125 -40.4457167422338,-4.162780453255266 -40.450084411266516,-4.207964735584028
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+</Document>
+</kml>

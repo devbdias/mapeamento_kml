@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ATACADAO JLJ DISTRIBUIDORA DE ALIMENTOS LTDA</name>
+	<StyleMap id="__managed_style_07E523B8E32E9FA06526">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B205739A02E9FA06526</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_243682C15B2E9FA06526</styleUrl>
+		</Pair>
+	</StyleMap>
+        <gx:CascadingStyle kml:id="__managed_style_7FE6D9E2001F2984">
+            <Style>
+                <IconStyle>
+                    <scale>1.2</scale>
+                    <Icon>
+                        <href>https://earth.google.com/earth/rpc/cc/icon?color=388c2cff&amp;id=2000&amp;scale=4</href>
+                    </Icon>
+                    <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+                </IconStyle>
+                <LabelStyle>
+                </LabelStyle>
+                <LineStyle>
+                    <color>388c2cffff</color>
+                    <width>3.2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>40ffffff</color>
+                </PolyStyle>
+                <BalloonStyle>
+                    <displayMode>hide</displayMode>
+                </BalloonStyle>
+            </Style>
+        </gx:CascadingStyle>
+        <Placemark>
+            <name>RECIFE / PE</name>
+            <styleUrl>#__managed_style_07E523B8E32E9FA06526</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -34.91387104371364,-7.97936230922312 -34.87289599685272,-8.017307437588101 -34.8605759997825,-8.044467000251814 -34.908867821992374,-8.155123269323383 -34.952993473669835,-8.138614363262207 -34.97390106997835,-8.078296280548841 -35.01669502895237,-8.055808150925373 -34.9961383220259,-8.036853793068076 -34.96554426105877,-8.019809477425383 -34.96207428539992,-7.974092404340922 -35.00371875071971,-7.9595517500131905 -35.00011444242756,-7.929199476274789 -34.967758203078574,-7.941791414841873 -34.94841182714407,-7.92953750894884 -34.90924855357787,-7.944014573114032 -34.91387104371364,-7.97936230922312
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+</Document>
+</kml>

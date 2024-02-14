@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+  <name>RIBERPAN COM.DE ALIMENTOS LTDA</name>
+
+    <Style id="poly-cfdbebFF-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>cfdbebFF</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>cfdbebFF</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-cfdbebFF-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>cfdbebFF</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>cfdbebFF</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-cfdbebFF-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-cfdbebFF-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-cfdbebFF-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>ARROIO DO MEIO / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.899526493053145,-29.29579771609167 -51.910080995041824,-29.35264165748646 -51.87444848231155,-29.39184111887249 -51.909245573424414,-29.417679530685746 -51.951519422982926,-29.41788227834445 -51.95652943278708,-29.421527918578533 -52.03420060077707,-29.403234034523052 -52.06283103972066,-29.354055000537812 -52.03350676752325,-29.32876136744312 -51.97679226555056,-29.301123267424828 -51.919370941415764,-29.29159242594966 -51.899526493053145,-29.29579771609167
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BARÃO / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.39716712266454,-29.351562809176244 -51.40115406910496,-29.41908033538914 -51.40350573420221,-29.43347663773659 -51.435506720658566,-29.431884360175047 -51.474358413310085,-29.400258051068136 -51.54399930632286,-29.419157256202368 -51.583632894742266,-29.407473328930962 -51.607971285046744,-29.411588688666995 -51.61087897758273,-29.4010900993286 -51.617126729714755,-29.37838516204556 -51.56126425354245,-29.37470657694695 -51.52124792265346,-29.351300244910306 -51.39716712266454,-29.351562809176244
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BENTO GONÇALVES / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.50556171280277,-29.081388598804722 -51.458304821410366,-29.168730041857884 -51.423151945006225,-29.15616525831996 -51.390736048229996,-29.19708850962695 -51.49214438635431,-29.198364632321898 -51.654036544151154,-29.199255672511242 -51.66550438681793,-29.188117558178703 -51.61665194882835,-29.187239722734944 -51.61504337015538,-29.125300207338626 -51.68171264861979,-29.088989907957853 -51.65754539120678,-29.019011566830272 -51.63041619055468,-29.021857571269834 -51.604730085225185,-29.049279160404865 -51.5577939208527,-29.044476274360534 -51.50556171280277,-29.081388598804722
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>BOM PRINCÍPIO / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.33204934380211,-29.409869935848803 -51.33010606804055,-29.427185453745665 -51.33651099558591,-29.516591066624358 -51.37617019759648,-29.552588543126717 -51.39627773632844,-29.52547900705048 -51.38720780819375,-29.503375921261693 -51.40350573420221,-29.43347663773659 -51.40115406910496,-29.41908033538914 -51.35813152135256,-29.398567295044586 -51.33204934380211,-29.409869935848803
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CARLOS BARBOSA / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.35441747238838,-29.333134259738245 -51.35448150231946,-29.35189961067846 -51.39716712266454,-29.351562809176244 -51.52124792265346,-29.351300244910306 -51.56126425354245,-29.37470657694695 -51.617126729714755,-29.37838516204556 -51.64647274661991,-29.371992063283074 -51.63245920472849,-29.2941444806832 -51.5458577013718,-29.292928723182 -51.49019486120386,-29.260407185742963 -51.45896498764404,-29.25401761412155 -51.44062918618795,-29.291348498334514 -51.354035562691024,-29.29136587593439 -51.35441747238838,-29.333134259738245
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>COTIPORÃ / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.63041619055468,-29.021857571269834 -51.65754539120678,-29.019011566830272 -51.68171264861979,-29.088989907957853 -51.69547505123256,-29.09725140582765 -51.714042510853176,-29.09067074445926 -51.73752676195045,-29.01906191627438 -51.76001612544377,-28.996492317066725 -51.78091318169794,-28.937494233172288 -51.69370051706517,-28.931781317753575 -51.62746512731371,-28.927539521431697 -51.61766963064889,-28.983337464952 -51.63041619055468,-29.021857571269834
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>CRUZEIRO DO SUL / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.97020685935905,-29.49841736347048 -51.99648780776607,-29.591356285863867 -51.95186087847674,-29.609418843604715 -51.96996775840529,-29.634141857760483 -52.009903030700286,-29.62443485258632 -52.04790802243724,-29.581423906088332 -52.101052855305,-29.550248919951628 -52.10642406701703,-29.497081336934116 -52.1421352767216,-29.484517696434523 -52.04914004507697,-29.47422044731576 -51.97020685935905,-29.49841736347048
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>DOIS LAJEADOS / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.78130413407848,-28.936285839319964 -51.78091318169794,-28.937494233172288 -51.76001612544377,-28.996492317066725 -51.81409910319104,-29.014511614719197 -51.91832504066804,-29.022858902516305 -51.92924372491791,-28.99063689597591 -51.91363183234313,-28.948141622537833 -51.88962037078346,-28.932479031581977 -51.78130413407848,-28.936285839319964
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ENCANTADO / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.896775864414565,-29.1470227809765 -51.8861238669229,-29.171398352851668 -51.870776828287944,-29.19901357231845 -51.86616726320858,-29.276668193682156 -51.899526493053145,-29.29579771609167 -51.919370941415764,-29.29159242594966 -51.96458051897571,-29.2380050438976 -51.958152253123956,-29.20198607899431 -52.00174767801286,-29.166142146442837 -51.99267423802564,-29.143925693915605 -51.95905807996638,-29.155097924929237 -51.896775864414565,-29.1470227809765
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ESTRELA / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.84225042921389,-29.424428160231344 -51.8724906959888,-29.54392204456667 -51.882695635095445,-29.560181043420357 -51.95186087847674,-29.609418843604715 -51.99648780776607,-29.591356285863867 -51.97020685935905,-29.49841736347048 -51.924609926706694,-29.438107986194552 -51.95652943278708,-29.421527918578533 -51.951519422982926,-29.41788227834445 -51.84225042921389,-29.424428160231344
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>FELIZ / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.19668245143396,-29.409391276186398 -51.235384047235925,-29.422740017637636 -51.27291334527462,-29.489341905404558 -51.26515059972036,-29.504419396537855 -51.30333616093503,-29.52295386812648 -51.33651099558591,-29.516591066624358 -51.33010606804055,-29.427185453745665 -51.280317085065406,-29.4048341892464 -51.22629462989323,-29.38988158516696 -51.19668245143396,-29.409391276186398
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>GARIBALDI / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.49214438635431,-29.198364632321898 -51.49019486120386,-29.260407185742963 -51.5458577013718,-29.292928723182 -51.63245920472849,-29.2941444806832 -51.649940545020115,-29.294380855791815 -51.64675072256773,-29.25381503913269 -51.68332916740712,-29.21306561148873 -51.654036544151154,-29.199255672511242 -51.49214438635431,-29.198364632321898
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>IMIGRANTE / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.700925965360966,-29.304325450159354 -51.727892067664754,-29.362164024649985 -51.781056783643635,-29.387943706237024 -51.81608791162779,-29.387669649534644 -51.83945649372214,-29.344226603974562 -51.775907274601025,-29.342594155495817 -51.78002547619474,-29.298923594947894 -51.700925965360966,-29.304325450159354
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>LAJEADO / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.95652943278708,-29.421527918578533 -51.924609926706694,-29.438107986194552 -51.97020685935905,-29.49841736347048 -52.04914004507697,-29.47422044731576 -52.042022482151765,-29.4454238334431 -52.12619455153731,-29.424251409275087 -52.040454710216636,-29.40166118231764 -52.03420060077707,-29.403234034523052 -51.95652943278708,-29.421527918578533
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>MUÇUM / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.73912895993351,-29.13675345131071 -51.75801163552853,-29.18517146009475 -51.8861238669229,-29.171398352851668 -51.896775864414565,-29.1470227809765 -51.90741801792717,-29.1074859065493 -51.86268012308915,-29.1162298079592 -51.83075039801241,-29.096831984508412 -51.77963429358772,-29.09424104848557 -51.73912895993351,-29.13675345131071
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>NOVA PETRÓPOLIS / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -50.98541812304791,-29.320785730776834 -50.95518970843824,-29.37482545832819 -50.98132446844943,-29.390400726012672 -51.014651337089504,-29.44578935659348 -51.08750134121391,-29.45030175801969 -51.16899886280726,-29.439435782135604 -51.19668245143396,-29.409391276186398 -51.22629462989323,-29.38988158516696 -51.21229850337318,-29.358571188109806 -51.180500347313114,-29.326194355185294 -51.13691152344802,-29.33879771424307 -51.08862469247555,-29.290941940917776 -51.03231496636255,-29.294251425362972 -50.98541812304791,-29.320785730776834
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>NOVA PRATA / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.596203015756544,-28.669755250204616 -51.56168994763294,-28.69287571833968 -51.52707775533412,-28.745748417255584 -51.49409665983296,-28.823978438354175 -51.66718217731557,-28.834838514685657 -51.71211550112946,-28.83546237169105 -51.714054781203174,-28.784222812832525 -51.66228107810923,-28.773919901582133 -51.668723928266616,-28.657734323580144 -51.66988352940132,-28.62861371724921 -51.596203015756544,-28.669755250204616
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>ROCA SALES / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.75801163552853,-29.18517146009475 -51.75000325724449,-29.20809638054351 -51.754784654887885,-29.260561760316932 -51.78002547619474,-29.298923594947894 -51.775907274601025,-29.342594155495817 -51.83945649372214,-29.344226603974562 -51.910080995041824,-29.35264165748646 -51.899526493053145,-29.29579771609167 -51.86616726320858,-29.276668193682156 -51.870776828287944,-29.19901357231845 -51.8861238669229,-29.171398352851668 -51.75801163552853,-29.18517146009475
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SALVADOR DO SUL / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.47229869872592,-29.438699079998514 -51.457416100572516,-29.495723268913707 -51.52168210544477,-29.51221255086847 -51.58780291347364,-29.47662000490925 -51.60175706323781,-29.47565470679922 -51.56946988372812,-29.458017014873292 -51.607971285046744,-29.411588688666995 -51.583632894742266,-29.407473328930962 -51.572999115716584,-29.428769972855946 -51.47229869872592,-29.438699079998514
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SANTA TEREZA / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.69547505123256,-29.09725140582765 -51.695429608489576,-29.15839209032265 -51.66550438681793,-29.188117558178703 -51.654036544151154,-29.199255672511242 -51.68332916740712,-29.21306561148873 -51.75000325724449,-29.20809638054351 -51.75801163552853,-29.18517146009475 -51.73912895993351,-29.13675345131071 -51.714042510853176,-29.09067074445926 -51.69547505123256,-29.09725140582765
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SÃO VALENTIM DO SUL / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.714042510853176,-29.09067074445926 -51.73912895993351,-29.13675345131071 -51.77963429358772,-29.09424104848557 -51.80839941500096,-29.081724146651993 -51.81409910319104,-29.014511614719197 -51.76001612544377,-28.996492317066725 -51.73752676195045,-29.01906191627438 -51.714042510853176,-29.09067074445926
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SÃO VENDELINO / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.33204934380211,-29.409869935848803 -51.35813152135256,-29.398567295044586 -51.40115406910496,-29.41908033538914 -51.39716712266454,-29.351562809176244 -51.35448150231946,-29.35189961067846 -51.33204934380211,-29.409869935848803
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>TEUTÔNIA / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.781056783643635,-29.387943706237024 -51.78159485431905,-29.461378400093054 -51.74413133988941,-29.46221993799969 -51.73918688706516,-29.414381618716675 -51.69120533545782,-29.415069791637507 -51.691229481355435,-29.42352545853305 -51.66937368035104,-29.480862107899895 -51.690773271469254,-29.50075964594089 -51.73272799390173,-29.52353280669365 -51.788677582004766,-29.51634040578506 -51.81676038688232,-29.529374825187972 -51.8724906959888,-29.54392204456667 -51.84225042921389,-29.424428160231344 -51.81608791162779,-29.387669649534644 -51.781056783643635,-29.387943706237024
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>VERANÓPOLIS / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.46344729145932,-28.926159166412333 -51.47637685620691,-29.018797460734163 -51.521701550586045,-29.043802864710415 -51.50556171280277,-29.081388598804722 -51.5577939208527,-29.044476274360534 -51.604730085225185,-29.049279160404865 -51.63041619055468,-29.021857571269834 -51.61766963064889,-28.983337464952 -51.62746512731371,-28.927539521431697 -51.69370051706517,-28.931781317753575 -51.620777876497755,-28.886390998046068 -51.55945743641149,-28.879809361812534 -51.456222895370274,-28.887402816286908 -51.46344729145932,-28.926159166412333
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>VILA FLORES / RS</name>
+      <description>RIBERPAN COM.DE ALIMENTOS LTDA, Franzen, None</description>
+      <styleUrl>#poly-cfdbebFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -51.46251307751646,-28.85643346912923 -51.456222895370274,-28.887402816286908 -51.55945743641149,-28.879809361812534 -51.620777876497755,-28.886390998046068 -51.66718217731557,-28.834838514685657 -51.49409665983296,-28.823978438354175 -51.46251307751646,-28.85643346912923
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+  </Document>
+</kml>

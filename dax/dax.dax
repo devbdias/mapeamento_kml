@@ -1,0 +1,24 @@
+//Locais
+
+Distancia = 
+VAR rad_lat1 = SELECTEDVALUE(Origem[LAT]) / 57.2957795
+VAR rad_lat2 = SELECTEDVALUE(Locais[LAT]) / 57.2957795
+VAR rad_long1 = SELECTEDVALUE(Origem[LONG]) / 57.2957795
+VAR rad_long2 = SELECTEDVALUE(Locais[LONG]) / 57.2957795
+VAR x = ROUND(SIN(rad_lat1) * SIN(rad_lat2) + COS(rad_lat1) * COS(rad_lat2) * COS(rad_long1 - rad_long2),15)
+RETURN
+ACOS(x) * 6371
+
+Distancia da Origem = 
+IF([Distancia] <= [Raio Valor] , [Distancia])
+
+Qtde Cidades no Raio = 
+COUNTX(Locais,[Distancia da Origem]) - 1
+
+//Origem
+
+//Raio
+
+Raio = GENERATESERIES(0, 200, 20)
+
+Raio Valor = SELECTEDVALUE('Raio'[Raio])

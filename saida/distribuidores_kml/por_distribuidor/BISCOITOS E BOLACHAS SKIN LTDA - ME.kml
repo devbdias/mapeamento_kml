@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+  <name>BISCOITOS E BOLACHAS SKIN LTDA - ME</name>
+
+    <Style id="poly-48773aFF-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>48773aFF</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>48773aFF</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-48773aFF-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>48773aFF</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>48773aFF</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-48773aFF-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-48773aFF-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-48773aFF-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>CAETÉS / PE</name>
+      <description>BISCOITOS E BOLACHAS SKIN LTDA - ME, Cláudio Cardoso, None</description>
+      <styleUrl>#poly-48773aFF-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -36.540075200310184,-8.783849334679019 -36.581831343441706,-8.825746153362218 -36.54325506456951,-8.881198892115151 -36.605262586698984,-8.891614082823594 -36.61229569159286,-8.906292657180359 -36.67156408561402,-8.854752495431285 -36.66743717588491,-8.832522147479096 -36.81841307310481,-8.836978203681099 -36.820319309388594,-8.802294750002659 -36.782111079862375,-8.732924557422336 -36.702222323101694,-8.723862039701316 -36.628280843286234,-8.756096437100837 -36.540075200310184,-8.783849334679019
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+  </Document>
+</kml>
